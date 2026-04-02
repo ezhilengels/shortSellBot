@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+
+# Env files
+.env
+
+# IDE/editor
+.vscode/
+.idea/
+
+# logs and output
+logs/
+*.log
+
+# data files
+*.csv
+
+# OS
+.DS_Store
