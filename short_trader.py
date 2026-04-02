@@ -661,15 +661,13 @@ def main():
     log.info(f"  Window    : {TRADE_START} – {TRADE_END}")
     log.info("=" * 55)
 
-    # Setup Kite
-    kite = setup_kite()
-
     # Init NSE
     nse_init()
 
     # Load prev close
+    overall_watchlist = WATCHLIST + SECONDARY_WATCHLIST
     log.info("📥 Loading previous close prices...")
-    for symbol in WATCHLIST:
+    for symbol in overall_watchlist:
         q = get_quote(symbol)
         if q:
             prev_close_map[symbol] = q["prev_close"]
@@ -682,7 +680,6 @@ def main():
     time.sleep(2)
 
     # Startup message
-    overall_watchlist = WATCHLIST + SECONDARY_WATCHLIST
     send_msg(
         f"🔴 *Short Trader Started*\n"
         f"Mode: {TRADING_MODE.upper()}\n"
