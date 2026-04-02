@@ -33,6 +33,7 @@ MIN_PRICE      = 200    # Min stock price ₹
 INDICES = {
     "NIFTY 100": "NIFTY%20100",
     "NIFTY 200": "NIFTY%20200",
+    "NIFTY 500":  "NIFTY%20500",
 }
 
 # ─────────────────────────────────────────

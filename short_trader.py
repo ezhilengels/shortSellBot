@@ -76,6 +76,70 @@ WATCHLIST = [
     "COALINDIA",
 ]
 
+SECONDARY_WATCHLIST = [
+    "HDFCBANK",
+    "ETERNAL",
+    "SBIN",
+    "LT",
+    "INDIGO",
+    "M&M",
+    "AXISBANK",
+    "TMCV",
+    "SUNPHARMA",
+    "MAZDOCK",
+    "SHRIRAMFIN",
+    "KOTAKBANK",
+    "JIOFIN",
+    "ADANIPORTS",
+    "BPCL",
+    "ADANIENT",
+    "PFC",
+    "ASIANPAINT",
+    "DLF",
+    "DRREDDY",
+    "TMPV",
+    "HINDZINC",
+    "ADANIENSOL",
+    "LODHA",
+    "BSE",
+    "MCX",
+    "COFORGE",
+    "BLUESTARCO",
+    "COCHINSHIP",
+    "ASTRAL",
+    "HINDPETRO",
+    "GODREJPROP",
+    "BDL",
+    "RVNL",
+    "INDUSINDBK",
+    "AUBANK",
+    "INDIANB",
+    "JSWENERGY",
+    "NYKAA",
+    "KPITTECH",
+    "LTF",
+    "JUBLFOOD",
+    "M&MFIN",
+    "GRSE",
+    "HINDCOPPER",
+    "PGEL",
+    "ACUTAAS",
+    "CDSL",
+    "HSCL",
+    "TEJASNET",
+    "CHENNPETRO",
+    "ANGELONE",
+    "ANANTRAJ",
+    "GMDCLTD",
+    "JBMA",
+    "BLS",
+    "TARIL",
+    "PCBL",
+    "JWL",
+    "FIRSTCRY",
+    "JSWINFRA",
+]
+
 # ─────────────────────────────────────────
 #  STRATEGY PARAMETERS
 # ─────────────────────────────────────────
@@ -558,6 +622,10 @@ async def button_handler(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
 
 
 def run_bot():
+    # Ensure the thread has its own asyncio event loop for python-telegram-bot
+    loop = asyncio.new_event_loop()
+    asyncio.set_event_loop(loop)
+
     app = Application.builder().token(TELEGRAM_BOT_TOKEN).build()
     app.add_handler(CallbackQueryHandler(button_handler))
     log.info("🤖 Telegram bot started")
@@ -614,10 +682,11 @@ def main():
     time.sleep(2)
 
     # Startup message
+    overall_watchlist = WATCHLIST + SECONDARY_WATCHLIST
     send_msg(
         f"🔴 *Short Trader Started*\n"
         f"Mode: {TRADING_MODE.upper()}\n"
-        f"Watching: {', '.join(WATCHLIST)}\n"
+        f"Watching: {len(overall_watchlist)} stocks (primary {len(WATCHLIST)} + secondary {len(SECONDARY_WATCHLIST)})\n"
         f"Window: {TRADE_START} – {TRADE_END}\n"
         f"Gap filter: {GAP_DOWN_MIN}%–{GAP_DOWN_MAX}% down\n"
         f"Max trades: {MAX_TRADES}"
@@ -645,9 +714,14 @@ def main():
             time.sleep(30)
             continue
 
-        log.info(f"🔍 Scanning {len(WATCHLIST)} stocks for short setup...")
+        overall_watchlist = WATCHLIST + SECONDARY_WATCHLIST
+        log.info(
+            f"🔍 Scanning {len(overall_watchlist)} stocks for short setup "
+            f"(primary {len(WATCHLIST)} + secondary {len(SECONDARY_WATCHLIST)})..."
+        )
 
-        for symbol in WATCHLIST:
+        scan_signals = []
+        for symbol in overall_watchlist:
             if symbol in traded_symbols:
                 continue
             if symbol not in prev_close_map:
@@ -656,8 +730,26 @@ def main():
             signal = detect_short_signal(symbol)
 
             if signal:
+                scan_signals.append(signal)
                 send_alert(signal)
                 time.sleep(2)  # Gap between alerts
+
+        # send summary after each scan
+        if scan_signals:
+            syms = ", ".join([s["symbol"] for s in scan_signals])
+            summary = (
+                f"🔎 Scan report: {len(scan_signals)} signal(s) found.\n"
+                f"Symbols: {syms}\n"
+                f"Trades executed: {trade_count}/{MAX_TRADES}\n"
+                f"Mode: {TRADING_MODE.upper()}"
+            )
+        else:
+            summary = (
+                f"🔎 Scan report: no signals found this round.\n"
+                f"Trades executed: {trade_count}/{MAX_TRADES}\n"
+                f"Mode: {TRADING_MODE.upper()}"
+            )
+        send_msg(summary)
 
         log.info(f"💤 Next scan in {SCAN_INTERVAL // 60} mins...\n")
         time.sleep(SCAN_INTERVAL)

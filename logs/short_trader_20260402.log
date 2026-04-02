@@ -135,3 +135,254 @@
 2026-04-02 10:58:53,889 | INFO     | 🔍 Scanning 15 stocks for short setup...
 2026-04-02 10:58:56,092 | INFO     | 💤 Next scan in 5 mins...
 
+2026-04-02 11:03:56,098 | INFO     | 🔍 Scanning 15 stocks for short setup...
+2026-04-02 11:03:58,709 | INFO     | 💤 Next scan in 5 mins...
+
+2026-04-02 11:08:58,720 | INFO     | 🔍 Scanning 15 stocks for short setup...
+2026-04-02 11:09:01,536 | INFO     | 💤 Next scan in 5 mins...
+
+2026-04-02 11:10:11,148 | INFO     | =======================================================
+2026-04-02 11:10:11,148 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 11:10:11,149 | INFO     |   Mode      : LIVE
+2026-04-02 11:10:11,149 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 11:10:11,149 | INFO     |   VWAP Range: within 0.4% below VWAP
+2026-04-02 11:10:11,149 | INFO     |   RSI Range : 45 – 62
+2026-04-02 11:10:11,149 | INFO     |   Max Trades: 3
+2026-04-02 11:10:11,149 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 11:10:11,149 | INFO     | =======================================================
+2026-04-02 11:10:11,149 | INFO     | 🔑 Using existing Kite access token
+2026-04-02 11:10:11,224 | INFO     | ✅ NSE session ready
+2026-04-02 11:10:11,224 | INFO     | 📥 Loading previous close prices...
+2026-04-02 11:10:11,276 | INFO     |   HDFCBANK: ₹742.25
+2026-04-02 11:10:11,626 | INFO     |   ICICIBANK: ₹1212.7
+2026-04-02 11:10:11,996 | INFO     |   AXISBANK: ₹1193.1
+2026-04-02 11:10:12,347 | INFO     |   KOTAKBANK: ₹356.05
+2026-04-02 11:10:12,693 | INFO     |   SBIN: ₹1017.8
+2026-04-02 11:10:13,043 | INFO     |   BAJFINANCE: ₹817.3
+2026-04-02 11:10:13,377 | INFO     |   BAJAJFINSV: ₹1647.0
+2026-04-02 11:10:13,735 | INFO     |   INDUSINDBK: ₹785.65
+2026-04-02 11:10:14,065 | INFO     |   RELIANCE: ₹1369.2
+2026-04-02 11:10:14,397 | INFO     |   TATAMOTORS: ₹0.0
+2026-04-02 11:10:14,737 | INFO     |   MARUTI: ₹12509.0
+2026-04-02 11:10:15,069 | INFO     |   ONGC: ₹288.05
+2026-04-02 11:10:15,406 | INFO     |   NTPC: ₹364.65
+2026-04-02 11:10:15,757 | INFO     |   POWERGRID: ₹292.8
+2026-04-02 11:10:16,087 | INFO     |   COALINDIA: ₹449.4
+2026-04-02 11:10:19,338 | INFO     | 
+⏳ Waiting for trade window 09:45...
+
+2026-04-02 11:10:19,339 | INFO     | 🔍 Scanning 15 stocks for short setup...
+2026-04-02 11:10:22,865 | INFO     | 💤 Next scan in 5 mins...
+
+2026-04-02 11:11:40,629 | INFO     | =======================================================
+2026-04-02 11:11:40,629 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 11:11:40,629 | INFO     |   Mode      : LIVE
+2026-04-02 11:11:40,629 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 11:11:40,629 | INFO     |   VWAP Range: within 0.4% below VWAP
+2026-04-02 11:11:40,629 | INFO     |   RSI Range : 45 – 62
+2026-04-02 11:11:40,629 | INFO     |   Max Trades: 3
+2026-04-02 11:11:40,629 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 11:11:40,629 | INFO     | =======================================================
+2026-04-02 11:11:40,629 | INFO     | 🔑 Using existing Kite access token
+2026-04-02 11:11:40,698 | INFO     | ✅ NSE session ready
+2026-04-02 11:11:40,698 | INFO     | 📥 Loading previous close prices...
+2026-04-02 11:11:40,749 | INFO     |   HDFCBANK: ₹742.25
+2026-04-02 11:11:41,083 | INFO     |   ICICIBANK: ₹1212.7
+2026-04-02 11:11:41,418 | INFO     |   AXISBANK: ₹1193.1
+2026-04-02 11:11:41,761 | INFO     |   KOTAKBANK: ₹356.05
+2026-04-02 11:11:42,123 | INFO     |   SBIN: ₹1017.8
+2026-04-02 11:11:42,456 | INFO     |   BAJFINANCE: ₹817.3
+2026-04-02 11:11:42,797 | INFO     |   BAJAJFINSV: ₹1647.0
+2026-04-02 11:11:43,140 | INFO     |   INDUSINDBK: ₹785.65
+2026-04-02 11:11:43,476 | INFO     |   RELIANCE: ₹1369.2
+2026-04-02 11:11:43,807 | INFO     |   TATAMOTORS: ₹0.0
+2026-04-02 11:11:44,144 | INFO     |   MARUTI: ₹12509.0
+2026-04-02 11:11:44,485 | INFO     |   ONGC: ₹288.05
+2026-04-02 11:11:44,815 | INFO     |   NTPC: ₹364.65
+2026-04-02 11:11:45,159 | INFO     |   POWERGRID: ₹292.8
+2026-04-02 11:11:45,496 | INFO     |   COALINDIA: ₹449.4
+2026-04-02 11:11:48,757 | INFO     | 
+⏳ Waiting for trade window 09:45...
+
+2026-04-02 11:11:48,757 | INFO     | 🔍 Scanning 49 stocks for short setup (primary 15 + secondary 34)...
+2026-04-02 11:11:52,783 | INFO     | 💤 Next scan in 5 mins...
+
+2026-04-02 11:14:04,754 | INFO     | =======================================================
+2026-04-02 11:14:04,754 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 11:14:04,754 | INFO     |   Mode      : LIVE
+2026-04-02 11:14:04,754 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 11:14:04,754 | INFO     |   VWAP Range: within 0.4% below VWAP
+2026-04-02 11:14:04,754 | INFO     |   RSI Range : 45 – 62
+2026-04-02 11:14:04,754 | INFO     |   Max Trades: 3
+2026-04-02 11:14:04,754 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 11:14:04,754 | INFO     | =======================================================
+2026-04-02 11:14:04,754 | INFO     | 🔑 Using existing Kite access token
+2026-04-02 11:14:04,835 | INFO     | ✅ NSE session ready
+2026-04-02 11:14:04,835 | INFO     | 📥 Loading previous close prices...
+2026-04-02 11:14:04,890 | INFO     |   HDFCBANK: ₹742.25
+2026-04-02 11:14:05,233 | INFO     |   ICICIBANK: ₹1212.7
+2026-04-02 11:14:05,570 | INFO     |   AXISBANK: ₹1193.1
+2026-04-02 11:14:05,917 | INFO     |   KOTAKBANK: ₹356.05
+2026-04-02 11:14:06,282 | INFO     |   SBIN: ₹1017.8
+2026-04-02 11:14:06,618 | INFO     |   BAJFINANCE: ₹817.3
+2026-04-02 11:14:06,958 | INFO     |   BAJAJFINSV: ₹1647.0
+2026-04-02 11:14:07,296 | INFO     |   INDUSINDBK: ₹785.65
+2026-04-02 11:14:07,632 | INFO     |   RELIANCE: ₹1369.2
+2026-04-02 11:14:07,981 | INFO     |   TATAMOTORS: ₹0.0
+2026-04-02 11:14:08,312 | INFO     |   MARUTI: ₹12509.0
+2026-04-02 11:14:08,644 | INFO     |   ONGC: ₹288.05
+2026-04-02 11:14:08,980 | INFO     |   NTPC: ₹364.65
+2026-04-02 11:14:09,320 | INFO     |   POWERGRID: ₹292.8
+2026-04-02 11:14:09,655 | INFO     |   COALINDIA: ₹449.4
+2026-04-02 11:14:09,977 | INFO     | 🤖 Telegram bot started
+2026-04-02 11:14:11,793 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getMe "HTTP/1.1 200 OK"
+2026-04-02 11:14:12,153 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/deleteWebhook "HTTP/1.1 200 OK"
+2026-04-02 11:14:12,156 | INFO     | Scheduler started
+2026-04-02 11:14:12,157 | INFO     | Application started
+2026-04-02 11:14:13,041 | INFO     | 
+⏳ Waiting for trade window 09:45...
+
+2026-04-02 11:14:13,041 | INFO     | 🔍 Scanning 49 stocks for short setup (primary 15 + secondary 34)...
+2026-04-02 11:14:13,578 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:14:16,417 | INFO     | 💤 Next scan in 5 mins...
+
+2026-04-02 11:14:23,942 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:14:34,320 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:14:44,765 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:14:55,212 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:15:05,654 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:15:16,022 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:15:26,384 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:15:36,785 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:15:47,145 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:15:57,572 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:16:08,017 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:16:18,397 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:16:28,756 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:16:39,147 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:16:49,592 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:16:59,952 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:17:10,483 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:17:20,845 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:17:31,209 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:17:41,613 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:17:52,062 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:18:02,430 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:18:13,670 | INFO     | =======================================================
+2026-04-02 11:18:13,670 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 11:18:13,670 | INFO     |   Mode      : LIVE
+2026-04-02 11:18:13,670 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 11:18:13,670 | INFO     |   VWAP Range: within 0.4% below VWAP
+2026-04-02 11:18:13,670 | INFO     |   RSI Range : 45 – 62
+2026-04-02 11:18:13,670 | INFO     |   Max Trades: 3
+2026-04-02 11:18:13,670 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 11:18:13,670 | INFO     | =======================================================
+2026-04-02 11:18:13,670 | INFO     | 🔑 Using existing Kite access token
+2026-04-02 11:18:13,731 | INFO     | ✅ NSE session ready
+2026-04-02 11:18:13,731 | INFO     | 📥 Loading previous close prices...
+2026-04-02 11:18:13,821 | INFO     |   HDFCBANK: ₹742.25
+2026-04-02 11:18:14,159 | INFO     |   ICICIBANK: ₹1212.7
+2026-04-02 11:18:14,522 | INFO     |   AXISBANK: ₹1193.1
+2026-04-02 11:18:14,878 | INFO     |   KOTAKBANK: ₹356.05
+2026-04-02 11:18:15,217 | INFO     |   SBIN: ₹1017.8
+2026-04-02 11:18:15,564 | INFO     |   BAJFINANCE: ₹817.3
+2026-04-02 11:18:15,918 | INFO     |   BAJAJFINSV: ₹1647.0
+2026-04-02 11:18:16,276 | INFO     |   INDUSINDBK: ₹785.65
+2026-04-02 11:18:16,619 | INFO     |   RELIANCE: ₹1369.2
+2026-04-02 11:18:16,958 | INFO     |   TATAMOTORS: ₹0.0
+2026-04-02 11:18:17,300 | INFO     |   MARUTI: ₹12509.0
+2026-04-02 11:18:17,675 | INFO     |   ONGC: ₹288.05
+2026-04-02 11:18:18,010 | INFO     |   NTPC: ₹364.65
+2026-04-02 11:18:18,353 | INFO     |   POWERGRID: ₹292.8
+2026-04-02 11:18:18,713 | INFO     |   COALINDIA: ₹449.4
+2026-04-02 11:18:19,033 | INFO     | 🤖 Telegram bot started
+2026-04-02 11:18:20,683 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getMe "HTTP/1.1 200 OK"
+2026-04-02 11:18:21,061 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/deleteWebhook "HTTP/1.1 200 OK"
+2026-04-02 11:18:21,064 | INFO     | Scheduler started
+2026-04-02 11:18:21,064 | INFO     | Application started
+2026-04-02 11:18:22,069 | INFO     | 
+⏳ Waiting for trade window 09:45...
+
+2026-04-02 11:18:22,070 | INFO     | 🔍 Scanning 49 stocks for short setup (primary 15 + secondary 34)...
+2026-04-02 11:18:26,046 | INFO     | 💤 Next scan in 5 mins...
+
+2026-04-02 11:18:32,501 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:18:42,858 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:18:53,216 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:19:03,636 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:19:14,009 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:19:24,369 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:19:34,766 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:19:45,209 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:19:55,655 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:20:06,099 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:20:16,484 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:20:26,844 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:20:37,202 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:20:47,572 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:20:57,929 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:21:08,287 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:21:18,647 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:21:29,044 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:21:39,489 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:21:49,936 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:22:00,295 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:22:10,655 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:22:21,064 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:22:31,510 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:22:41,955 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:22:52,314 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:23:02,670 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:23:13,085 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:23:23,529 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:23:26,053 | INFO     | 🔍 Scanning 49 stocks for short setup (primary 15 + secondary 34)...
+2026-04-02 11:23:29,745 | INFO     | 💤 Next scan in 5 mins...
+
+2026-04-02 11:23:33,889 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:23:44,247 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:23:54,607 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:24:04,971 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:24:15,327 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:24:25,688 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:24:36,048 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:24:46,410 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:24:55,823 | INFO     | =======================================================
+2026-04-02 11:24:55,823 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 11:24:55,823 | INFO     |   Mode      : LIVE
+2026-04-02 11:24:55,823 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 11:24:55,823 | INFO     |   VWAP Range: within 0.4% below VWAP
+2026-04-02 11:24:55,823 | INFO     |   RSI Range : 45 – 62
+2026-04-02 11:24:55,823 | INFO     |   Max Trades: 3
+2026-04-02 11:24:55,823 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 11:24:55,823 | INFO     | =======================================================
+2026-04-02 11:24:55,823 | INFO     | 🔑 Using existing Kite access token
+2026-04-02 11:24:55,891 | INFO     | ✅ NSE session ready
+2026-04-02 11:24:55,891 | INFO     | 📥 Loading previous close prices...
+2026-04-02 11:24:55,956 | INFO     |   HDFCBANK: ₹742.25
+2026-04-02 11:24:56,343 | INFO     |   ICICIBANK: ₹1212.7
+2026-04-02 11:24:56,700 | INFO     |   AXISBANK: ₹1193.1
+2026-04-02 11:24:57,045 | INFO     |   KOTAKBANK: ₹356.05
+2026-04-02 11:24:57,391 | INFO     |   SBIN: ₹1017.8
+2026-04-02 11:24:57,776 | INFO     |   BAJFINANCE: ₹817.3
+2026-04-02 11:24:58,126 | INFO     |   BAJAJFINSV: ₹1647.0
+2026-04-02 11:24:58,477 | INFO     |   INDUSINDBK: ₹785.65
+2026-04-02 11:24:58,854 | INFO     |   RELIANCE: ₹1369.2
+2026-04-02 11:24:59,202 | INFO     |   TATAMOTORS: ₹0.0
+2026-04-02 11:24:59,538 | INFO     |   MARUTI: ₹12509.0
+2026-04-02 11:24:59,892 | INFO     |   ONGC: ₹288.05
+2026-04-02 11:25:00,242 | INFO     |   NTPC: ₹364.65
+2026-04-02 11:25:00,586 | INFO     |   POWERGRID: ₹292.8
+2026-04-02 11:25:00,928 | INFO     |   COALINDIA: ₹449.4
+2026-04-02 11:25:01,244 | INFO     | 🤖 Telegram bot started
+2026-04-02 11:25:02,815 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getMe "HTTP/1.1 200 OK"
+2026-04-02 11:25:03,250 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/deleteWebhook "HTTP/1.1 200 OK"
+2026-04-02 11:25:03,253 | INFO     | Scheduler started
+2026-04-02 11:25:03,254 | INFO     | Application started
+2026-04-02 11:25:04,276 | INFO     | 
+⏳ Waiting for trade window 09:45...
+
+2026-04-02 11:25:04,277 | INFO     | 🔍 Scanning 76 stocks for short setup (primary 15 + secondary 61)...
+2026-04-02 11:25:08,218 | INFO     | 💤 Next scan in 5 mins...
+
+2026-04-02 11:25:14,839 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:25:25,221 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
