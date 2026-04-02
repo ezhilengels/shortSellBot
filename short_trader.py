@@ -146,11 +146,11 @@ SECONDARY_WATCHLIST = [
 
 GAP_DOWN_MIN       = 1.5    # Min gap down %
 GAP_DOWN_MAX       = 5.0    # Max gap down %
-VWAP_TOUCH_RANGE   = 0.4    # Price must be within 0.4% BELOW vwap (bounce zone)
+VWAP_TOUCH_RANGE   = 0.6    # Price must be within 0.6% BELOW vwap (bounce zone) - RELAXED
 VWAP_BUFFER_PCT    = 0.3    # SL = VWAP + 0.3% buffer above VWAP
-RSI_MIN            = 45     # RSI lower bound (not oversold)
-RSI_MAX            = 62     # RSI upper bound (overbought = rejection likely)
-VOLUME_RATIO_MAX   = 0.85   # Bounce candle volume < 85% avg (weak bounce)
+RSI_MIN            = 40     # RSI lower bound (not oversold) - RELAXED
+RSI_MAX            = 65     # RSI upper bound (overbought = rejection likely) - RELAXED
+VOLUME_RATIO_MAX   = 0.9    # Bounce candle volume < 90% avg (weak bounce) - RELAXED
 STOP_LOSS_PCT      = 1.5    # SL = 1.5% above entry
 REWARD_RATIO       = 2.0    # Target = 2x risk (1:3 RR)
 MAX_CAPITAL        = 20000  # Max ₹ per trade
@@ -232,11 +232,11 @@ def get_quote(symbol: str) -> Optional[dict]:
 
 def get_candles(symbol: str) -> pd.DataFrame:
     url = (f"https://www.nseindia.com/api/chart-databyindex?"
-           f"index={symbol}EQN&indices=false")
+           f"index={symbol}&indices=false&preopen=false")
     try:
         r     = nse.get(url, timeout=10)
         data  = r.json()
-        graph = data.get("grapData", [])
+        graph = data.get("graphData", [])
         if not graph:
             return pd.DataFrame()
         df = pd.DataFrame(graph,
@@ -288,18 +288,20 @@ def detect_short_signal(symbol: str) -> Optional[dict]:
 
     All 5 conditions must pass:
       1. Gapped DOWN 1.5%–5% at open
-      2. Price bounced up near VWAP (within 0.4% below VWAP)
+      2. Price bounced up near VWAP (within 0.6% below VWAP)
       3. Last candle is RED (rejection = sellers taking over)
-      4. RSI in 45–62 (not oversold, bounce zone only)
+      4. RSI in 40–65 (not oversold, bounce zone only)
       5. Bounce on low volume (weak buyers = good short)
     """
 
     quote = get_quote(symbol)
     if not quote or quote["ltp"] == 0:
+        log.info(f"{symbol}: No quote data. Skip.")
         return None
 
     df = get_candles(symbol)
     if df.empty or len(df) < 5:
+        log.info(f"{symbol}: Insufficient candle data ({len(df)} candles). Skip.")
         return None
 
     ltp        = quote["ltp"]
@@ -309,37 +311,37 @@ def detect_short_signal(symbol: str) -> Optional[dict]:
     # ── Condition 1: Gap DOWN check ──────────────────────────
     gap_pct = ((open_price - prev_c) / prev_c) * 100
     if not (-GAP_DOWN_MAX <= gap_pct <= -GAP_DOWN_MIN):
-        log.debug(f"{symbol}: Gap {gap_pct:.2f}% not in down range. Skip.")
+        log.info(f"{symbol}: Gap {gap_pct:.2f}% not in down range [{ -GAP_DOWN_MAX:.1f}% to { -GAP_DOWN_MIN:.1f}%]. Skip.")
         return None
 
     # ── Condition 2: Price near VWAP (bounce up to VWAP) ─────
     vwap = calc_vwap(df)
     if vwap == 0:
+        log.info(f"{symbol}: VWAP calculation failed. Skip.")
         return None
     # Price should be just below VWAP (within VWAP_TOUCH_RANGE%)
     # i.e. price is touching VWAP from below but hasn't crossed it
     dist_pct = ((vwap - ltp) / vwap) * 100   # positive = below vwap
     if not (0 <= dist_pct <= VWAP_TOUCH_RANGE):
-        log.debug(f"{symbol}: LTP ₹{ltp} not near VWAP ₹{vwap:.2f} "
-                  f"(dist={dist_pct:.2f}%). Skip.")
+        log.info(f"{symbol}: LTP ₹{ltp} not near VWAP ₹{vwap:.2f} (dist={dist_pct:.2f}%, range=0-{VWAP_TOUCH_RANGE}%). Skip.")
         return None
 
     # ── Condition 3: Last candle RED (rejection confirmed) ────
     last = df.iloc[-1]
     if last["close"] >= last["open"]:
-        log.debug(f"{symbol}: Last candle green — no rejection yet. Skip.")
+        log.info(f"{symbol}: Last candle green (close {last['close']:.2f} >= open {last['open']:.2f}). No rejection. Skip.")
         return None
 
     # ── Condition 4: RSI in bounce zone (not oversold) ────────
     rsi = calc_rsi(df["close"])
     if not (RSI_MIN <= rsi <= RSI_MAX):
-        log.debug(f"{symbol}: RSI {rsi:.1f} out of [{RSI_MIN}–{RSI_MAX}]. Skip.")
+        log.info(f"{symbol}: RSI {rsi:.1f} out of [{RSI_MIN}–{RSI_MAX}]. Skip.")
         return None
 
     # ── Condition 5: Low volume bounce (weak buyers) ──────────
     vol_r = calc_vol_ratio(df)
     if vol_r > VOLUME_RATIO_MAX:
-        log.debug(f"{symbol}: Bounce vol {vol_r:.2f}x too high. Strong buyers. Skip.")
+        log.info(f"{symbol}: Bounce vol {vol_r:.2f}x too high (> {VOLUME_RATIO_MAX}). Strong buyers. Skip.")
         return None
 
     # ── All conditions passed → Build short signal ────────────

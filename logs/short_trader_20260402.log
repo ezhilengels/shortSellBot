@@ -513,3 +513,1016 @@
 2026-04-02 11:30:51,226 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
 2026-04-02 11:31:01,598 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
 2026-04-02 11:31:11,972 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:31:22,345 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:31:32,716 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:31:43,143 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:31:53,589 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:32:03,960 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:32:14,376 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:32:24,747 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:32:35,164 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:32:45,608 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:32:56,053 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:33:06,423 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:33:16,840 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:33:27,286 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:33:37,655 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:33:44,736 | INFO     | =======================================================
+2026-04-02 11:33:44,736 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 11:33:44,736 | INFO     |   Mode      : LIVE
+2026-04-02 11:33:44,736 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 11:33:44,736 | INFO     |   VWAP Range: within 0.6% below VWAP
+2026-04-02 11:33:44,736 | INFO     |   RSI Range : 40 – 65
+2026-04-02 11:33:44,736 | INFO     |   Max Trades: 3
+2026-04-02 11:33:44,736 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 11:33:44,736 | INFO     | =======================================================
+2026-04-02 11:33:44,817 | INFO     | ✅ NSE session ready
+2026-04-02 11:33:44,817 | INFO     | 📥 Loading previous close prices...
+2026-04-02 11:33:44,870 | INFO     |   HDFCBANK: ₹742.25
+2026-04-02 11:33:45,260 | INFO     |   ICICIBANK: ₹1212.7
+2026-04-02 11:33:45,619 | INFO     |   AXISBANK: ₹1193.1
+2026-04-02 11:33:45,976 | INFO     |   KOTAKBANK: ₹356.05
+2026-04-02 11:33:46,311 | INFO     |   SBIN: ₹1017.8
+2026-04-02 11:33:46,648 | INFO     |   BAJFINANCE: ₹817.3
+2026-04-02 11:33:46,992 | INFO     |   BAJAJFINSV: ₹1647.0
+2026-04-02 11:33:47,412 | INFO     |   INDUSINDBK: ₹785.65
+2026-04-02 11:33:47,740 | INFO     |   RELIANCE: ₹1369.2
+2026-04-02 11:33:48,077 | INFO     |   TATAMOTORS: ₹0.0
+2026-04-02 11:33:48,408 | INFO     |   MARUTI: ₹12509.0
+2026-04-02 11:33:48,745 | INFO     |   ONGC: ₹288.05
+2026-04-02 11:33:49,082 | INFO     |   NTPC: ₹364.65
+2026-04-02 11:33:49,415 | INFO     |   POWERGRID: ₹292.8
+2026-04-02 11:33:49,764 | INFO     |   COALINDIA: ₹449.4
+2026-04-02 11:33:50,097 | INFO     |   HDFCBANK: ₹742.25
+2026-04-02 11:33:50,442 | INFO     |   ETERNAL: ₹236.52
+2026-04-02 11:33:50,773 | INFO     |   SBIN: ₹1017.8
+2026-04-02 11:33:51,102 | INFO     |   LT: ₹3607.5
+2026-04-02 11:33:51,436 | INFO     |   INDIGO: ₹4180.8
+2026-04-02 11:33:51,779 | INFO     |   M&M: ₹0.0
+2026-04-02 11:33:52,112 | INFO     |   AXISBANK: ₹1193.1
+2026-04-02 11:33:52,450 | INFO     |   TMCV: ₹396.05
+2026-04-02 11:33:52,785 | INFO     |   SUNPHARMA: ₹1728.5
+2026-04-02 11:33:53,132 | INFO     |   MAZDOCK: ₹2318.2
+2026-04-02 11:33:53,464 | INFO     |   SHRIRAMFIN: ₹900.55
+2026-04-02 11:33:53,802 | INFO     |   KOTAKBANK: ₹356.05
+2026-04-02 11:33:54,132 | INFO     |   JIOFIN: ₹231.93
+2026-04-02 11:33:54,483 | INFO     |   ADANIPORTS: ₹1385.4
+2026-04-02 11:33:54,828 | INFO     |   BPCL: ₹281.25
+2026-04-02 11:33:55,165 | INFO     |   ADANIENT: ₹1842.5
+2026-04-02 11:33:55,504 | INFO     |   PFC: ₹397.7
+2026-04-02 11:33:55,847 | INFO     |   ASIANPAINT: ₹2225.8
+2026-04-02 11:33:56,185 | INFO     |   DLF: ₹509.75
+2026-04-02 11:33:56,532 | INFO     |   DRREDDY: ₹1209.6
+2026-04-02 11:33:56,876 | INFO     |   TMPV: ₹302.95
+2026-04-02 11:33:57,276 | INFO     |   HINDZINC: ₹524.45
+2026-04-02 11:33:57,708 | INFO     |   ADANIENSOL: ₹956.6
+2026-04-02 11:33:58,107 | INFO     |   LODHA: ₹685.35
+2026-04-02 11:33:58,449 | INFO     |   BSE: ₹2867.6
+2026-04-02 11:33:58,800 | INFO     |   MCX: ₹2469.7
+2026-04-02 11:33:59,145 | INFO     |   COFORGE: ₹1153.9
+2026-04-02 11:33:59,488 | INFO     |   BLUESTARCO: ₹1556.3
+2026-04-02 11:33:59,845 | INFO     |   COCHINSHIP: ₹1338.6
+2026-04-02 11:34:00,187 | INFO     |   ASTRAL: ₹1570.3
+2026-04-02 11:34:00,589 | INFO     |   HINDPETRO: ₹335.55
+2026-04-02 11:34:00,966 | INFO     |   GODREJPROP: ₹1508.1
+2026-04-02 11:34:01,305 | INFO     |   BDL: ₹1203.9
+2026-04-02 11:34:01,767 | INFO     |   RVNL: ₹262.61
+2026-04-02 11:34:02,098 | INFO     |   INDUSINDBK: ₹785.65
+2026-04-02 11:34:02,516 | INFO     |   AUBANK: ₹874.9
+2026-04-02 11:34:02,948 | INFO     |   INDIANB: ₹888.0
+2026-04-02 11:34:03,287 | INFO     |   JSWENERGY: ₹484.15
+2026-04-02 11:34:03,636 | INFO     |   NYKAA: ₹239.97
+2026-04-02 11:34:03,989 | INFO     |   KPITTECH: ₹674.3
+2026-04-02 11:34:04,343 | INFO     |   LTF: ₹244.64
+2026-04-02 11:34:04,682 | INFO     |   JUBLFOOD: ₹443.7
+2026-04-02 11:34:05,047 | INFO     |   M&MFIN: ₹0.0
+2026-04-02 11:34:05,457 | INFO     |   GRSE: ₹2359.3
+2026-04-02 11:34:05,864 | INFO     |   HINDCOPPER: ₹496.0
+2026-04-02 11:34:06,244 | INFO     |   PGEL: ₹480.9
+2026-04-02 11:34:06,657 | INFO     |   ACUTAAS: ₹2332.1
+2026-04-02 11:34:07,042 | INFO     |   CDSL: ₹1182.8
+2026-04-02 11:34:07,477 | INFO     |   HSCL: ₹446.85
+2026-04-02 11:34:07,824 | INFO     |   TEJASNET: ₹420.05
+2026-04-02 11:34:08,279 | INFO     |   CHENNPETRO: ₹1017.85
+2026-04-02 11:34:08,625 | INFO     |   ANGELONE: ₹240.6
+2026-04-02 11:34:09,025 | INFO     |   ANANTRAJ: ₹448.2
+2026-04-02 11:34:09,397 | INFO     |   GMDCLTD: ₹580.3
+2026-04-02 11:34:09,843 | INFO     |   JBMA: ₹561.1
+2026-04-02 11:34:10,235 | INFO     |   BLS: ₹255.41
+2026-04-02 11:34:10,763 | INFO     |   TARIL: ₹274.3
+2026-04-02 11:34:11,219 | INFO     |   PCBL: ₹257.62
+2026-04-02 11:34:11,607 | INFO     |   JWL: ₹256.68
+2026-04-02 11:34:11,952 | INFO     |   FIRSTCRY: ₹220.67
+2026-04-02 11:34:12,290 | INFO     |   JSWINFRA: ₹247.95
+2026-04-02 11:34:12,610 | INFO     | 🤖 Telegram bot started
+2026-04-02 11:34:14,187 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getMe "HTTP/1.1 200 OK"
+2026-04-02 11:34:14,594 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/deleteWebhook "HTTP/1.1 200 OK"
+2026-04-02 11:34:14,597 | INFO     | Scheduler started
+2026-04-02 11:34:14,597 | INFO     | Application started
+2026-04-02 11:34:15,607 | INFO     | 
+⏳ Waiting for trade window 09:45...
+
+2026-04-02 11:34:15,608 | INFO     | 🔍 Scanning 76 stocks for short setup (primary 15 + secondary 61)...
+2026-04-02 11:34:26,079 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:34:33,781 | INFO     | 💤 Next scan in 5 mins...
+
+2026-04-02 11:34:36,508 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:34:46,885 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:34:57,261 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:35:07,642 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:35:18,017 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:35:28,426 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:35:38,870 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:35:50,088 | INFO     | =======================================================
+2026-04-02 11:35:50,088 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 11:35:50,088 | INFO     |   Mode      : LIVE
+2026-04-02 11:35:50,088 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 11:35:50,088 | INFO     |   VWAP Range: within 0.6% below VWAP
+2026-04-02 11:35:50,088 | INFO     |   RSI Range : 40 – 65
+2026-04-02 11:35:50,088 | INFO     |   Max Trades: 3
+2026-04-02 11:35:50,088 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 11:35:50,088 | INFO     | =======================================================
+2026-04-02 11:35:50,159 | INFO     | ✅ NSE session ready
+2026-04-02 11:35:50,159 | INFO     | 📥 Loading previous close prices...
+2026-04-02 11:35:50,211 | INFO     |   HDFCBANK: ₹742.25
+2026-04-02 11:35:50,544 | INFO     |   ICICIBANK: ₹1212.7
+2026-04-02 11:35:50,880 | INFO     |   AXISBANK: ₹1193.1
+2026-04-02 11:35:51,217 | INFO     |   KOTAKBANK: ₹356.05
+2026-04-02 11:35:51,552 | INFO     |   SBIN: ₹1017.8
+2026-04-02 11:35:51,892 | INFO     |   BAJFINANCE: ₹817.3
+2026-04-02 11:35:52,229 | INFO     |   BAJAJFINSV: ₹1647.0
+2026-04-02 11:35:52,563 | INFO     |   INDUSINDBK: ₹785.65
+2026-04-02 11:35:52,895 | INFO     |   RELIANCE: ₹1369.2
+2026-04-02 11:35:53,232 | INFO     |   TATAMOTORS: ₹0.0
+2026-04-02 11:35:53,567 | INFO     |   MARUTI: ₹12509.0
+2026-04-02 11:35:53,895 | INFO     |   ONGC: ₹288.05
+2026-04-02 11:35:54,225 | INFO     |   NTPC: ₹364.65
+2026-04-02 11:35:54,573 | INFO     |   POWERGRID: ₹292.8
+2026-04-02 11:35:54,902 | INFO     |   COALINDIA: ₹449.4
+2026-04-02 11:35:55,252 | INFO     |   HDFCBANK: ₹742.25
+2026-04-02 11:35:55,599 | INFO     |   ETERNAL: ₹236.52
+2026-04-02 11:35:55,941 | INFO     |   SBIN: ₹1017.8
+2026-04-02 11:35:56,277 | INFO     |   LT: ₹3607.5
+2026-04-02 11:35:56,614 | INFO     |   INDIGO: ₹4180.8
+2026-04-02 11:35:56,961 | INFO     |   M&M: ₹0.0
+2026-04-02 11:35:57,295 | INFO     |   AXISBANK: ₹1193.1
+2026-04-02 11:35:57,643 | INFO     |   TMCV: ₹396.05
+2026-04-02 11:35:57,992 | INFO     |   SUNPHARMA: ₹1728.5
+2026-04-02 11:35:58,340 | INFO     |   MAZDOCK: ₹2318.2
+2026-04-02 11:35:58,696 | INFO     |   SHRIRAMFIN: ₹900.55
+2026-04-02 11:35:59,032 | INFO     |   KOTAKBANK: ₹356.05
+2026-04-02 11:35:59,386 | INFO     |   JIOFIN: ₹231.93
+2026-04-02 11:35:59,731 | INFO     |   ADANIPORTS: ₹1385.4
+2026-04-02 11:36:00,121 | INFO     |   BPCL: ₹281.25
+2026-04-02 11:36:00,471 | INFO     |   ADANIENT: ₹1842.5
+2026-04-02 11:36:00,811 | INFO     |   PFC: ₹397.7
+2026-04-02 11:36:01,149 | INFO     |   ASIANPAINT: ₹2225.8
+2026-04-02 11:36:01,492 | INFO     |   DLF: ₹509.75
+2026-04-02 11:36:01,836 | INFO     |   DRREDDY: ₹1209.6
+2026-04-02 11:36:02,199 | INFO     |   TMPV: ₹302.95
+2026-04-02 11:36:02,566 | INFO     |   HINDZINC: ₹524.45
+2026-04-02 11:36:02,925 | INFO     |   ADANIENSOL: ₹956.6
+2026-04-02 11:36:03,298 | INFO     |   LODHA: ₹685.35
+2026-04-02 11:36:03,635 | INFO     |   BSE: ₹2867.6
+2026-04-02 11:36:03,977 | INFO     |   MCX: ₹2469.7
+2026-04-02 11:36:04,349 | INFO     |   COFORGE: ₹1153.9
+2026-04-02 11:36:04,691 | INFO     |   BLUESTARCO: ₹1556.3
+2026-04-02 11:36:05,097 | INFO     |   COCHINSHIP: ₹1338.6
+2026-04-02 11:36:05,454 | INFO     |   ASTRAL: ₹1570.3
+2026-04-02 11:36:05,830 | INFO     |   HINDPETRO: ₹335.55
+2026-04-02 11:36:06,171 | INFO     |   GODREJPROP: ₹1508.1
+2026-04-02 11:36:06,513 | INFO     |   BDL: ₹1203.9
+2026-04-02 11:36:06,920 | INFO     |   RVNL: ₹262.61
+2026-04-02 11:36:07,266 | INFO     |   INDUSINDBK: ₹785.65
+2026-04-02 11:36:07,616 | INFO     |   AUBANK: ₹874.9
+2026-04-02 11:36:07,963 | INFO     |   INDIANB: ₹888.0
+2026-04-02 11:36:08,298 | INFO     |   JSWENERGY: ₹484.15
+2026-04-02 11:36:08,652 | INFO     |   NYKAA: ₹239.97
+2026-04-02 11:36:08,997 | INFO     |   KPITTECH: ₹674.3
+2026-04-02 11:36:09,345 | INFO     |   LTF: ₹244.64
+2026-04-02 11:36:09,692 | INFO     |   JUBLFOOD: ₹443.7
+2026-04-02 11:36:10,021 | INFO     |   M&MFIN: ₹0.0
+2026-04-02 11:36:10,425 | INFO     |   GRSE: ₹2359.3
+2026-04-02 11:36:10,794 | INFO     |   HINDCOPPER: ₹0.0
+2026-04-02 11:36:11,138 | INFO     |   PGEL: ₹480.9
+2026-04-02 11:36:11,512 | INFO     |   ACUTAAS: ₹2332.1
+2026-04-02 11:36:11,857 | INFO     |   CDSL: ₹1182.8
+2026-04-02 11:36:12,205 | INFO     |   HSCL: ₹446.85
+2026-04-02 11:36:12,593 | INFO     |   TEJASNET: ₹420.05
+2026-04-02 11:36:12,925 | INFO     |   CHENNPETRO: ₹1017.85
+2026-04-02 11:36:13,279 | INFO     |   ANGELONE: ₹240.6
+2026-04-02 11:36:13,618 | INFO     |   ANANTRAJ: ₹448.2
+2026-04-02 11:36:13,959 | INFO     |   GMDCLTD: ₹580.3
+2026-04-02 11:36:14,340 | INFO     |   JBMA: ₹561.1
+2026-04-02 11:36:14,916 | INFO     |   BLS: ₹255.41
+2026-04-02 11:36:15,408 | INFO     |   TARIL: ₹274.3
+2026-04-02 11:36:15,827 | INFO     |   PCBL: ₹257.62
+2026-04-02 11:36:16,193 | INFO     |   JWL: ₹256.68
+2026-04-02 11:36:16,538 | INFO     |   FIRSTCRY: ₹220.67
+2026-04-02 11:36:16,943 | INFO     |   JSWINFRA: ₹247.95
+2026-04-02 11:36:17,263 | INFO     | 🤖 Telegram bot started
+2026-04-02 11:36:19,013 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getMe "HTTP/1.1 200 OK"
+2026-04-02 11:36:19,376 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/deleteWebhook "HTTP/1.1 200 OK"
+2026-04-02 11:36:19,379 | INFO     | Scheduler started
+2026-04-02 11:36:19,379 | INFO     | Application started
+2026-04-02 11:36:20,224 | INFO     | 
+⏳ Waiting for trade window 09:45...
+
+2026-04-02 11:36:20,224 | INFO     | 🔍 Scanning 76 stocks for short setup (primary 15 + secondary 61)...
+2026-04-02 11:36:20,418 | INFO     | HDFCBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:20,577 | INFO     | ICICIBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:20,745 | INFO     | AXISBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:20,900 | INFO     | KOTAKBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:21,079 | INFO     | SBIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:21,229 | INFO     | BAJFINANCE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:21,406 | INFO     | BAJAJFINSV: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:21,567 | INFO     | INDUSINDBK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:21,734 | INFO     | RELIANCE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:25,912 | INFO     | TATAMOTORS: No quote data. Skip.
+2026-04-02 11:36:26,100 | INFO     | MARUTI: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:26,273 | INFO     | ONGC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:26,460 | INFO     | NTPC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:26,628 | INFO     | POWERGRID: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:26,784 | INFO     | COALINDIA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:26,827 | INFO     | HDFCBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:26,994 | INFO     | ETERNAL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:27,043 | INFO     | SBIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:27,143 | INFO     | LT: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:27,336 | INFO     | INDIGO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:27,400 | INFO     | M&M: No quote data. Skip.
+2026-04-02 11:36:27,452 | INFO     | AXISBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:27,616 | INFO     | TMCV: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:27,765 | INFO     | SUNPHARMA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:27,960 | INFO     | MAZDOCK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:28,125 | INFO     | SHRIRAMFIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:28,173 | INFO     | KOTAKBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:28,349 | INFO     | JIOFIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:28,554 | INFO     | ADANIPORTS: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:28,719 | INFO     | BPCL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:28,920 | INFO     | ADANIENT: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:29,080 | INFO     | PFC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:29,239 | INFO     | ASIANPAINT: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:29,430 | INFO     | DLF: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:29,598 | INFO     | DRREDDY: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:29,758 | INFO     | TMPV: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:30,046 | INFO     | HINDZINC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:30,238 | INFO     | ADANIENSOL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:30,475 | INFO     | LODHA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:30,649 | INFO     | BSE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:30,828 | INFO     | MCX: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:30,896 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:36:31,019 | INFO     | COFORGE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:31,188 | INFO     | BLUESTARCO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:31,358 | INFO     | COCHINSHIP: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:31,547 | INFO     | ASTRAL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:31,772 | INFO     | HINDPETRO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:31,957 | INFO     | GODREJPROP: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:32,106 | INFO     | BDL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:32,319 | INFO     | RVNL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:32,374 | INFO     | INDUSINDBK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:32,581 | INFO     | AUBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:32,739 | INFO     | INDIANB: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:32,897 | INFO     | JSWENERGY: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:33,070 | INFO     | NYKAA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:33,259 | INFO     | KPITTECH: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:33,431 | INFO     | LTF: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:33,593 | INFO     | JUBLFOOD: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:33,633 | INFO     | M&MFIN: No quote data. Skip.
+2026-04-02 11:36:33,810 | INFO     | GRSE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:33,833 | INFO     | HINDCOPPER: No quote data. Skip.
+2026-04-02 11:36:34,009 | INFO     | PGEL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:34,192 | INFO     | ACUTAAS: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:34,375 | INFO     | CDSL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:34,571 | INFO     | HSCL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:34,722 | INFO     | TEJASNET: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:34,896 | INFO     | CHENNPETRO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:35,058 | INFO     | ANGELONE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:35,230 | INFO     | ANANTRAJ: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:35,402 | INFO     | GMDCLTD: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:35,561 | INFO     | JBMA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:35,710 | INFO     | BLS: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:35,861 | INFO     | TARIL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:36,030 | INFO     | PCBL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:36,232 | INFO     | JWL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:36,404 | INFO     | FIRSTCRY: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:36,573 | INFO     | JSWINFRA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:36:37,589 | INFO     | 💤 Next scan in 5 mins...
+
+2026-04-02 11:36:41,336 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:36:51,780 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:37:02,157 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:37:12,539 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:37:23,012 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:37:33,388 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:37:43,799 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:37:47,603 | INFO     | =======================================================
+2026-04-02 11:37:47,603 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 11:37:47,603 | INFO     |   Mode      : LIVE
+2026-04-02 11:37:47,603 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 11:37:47,603 | INFO     |   VWAP Range: within 0.6% below VWAP
+2026-04-02 11:37:47,603 | INFO     |   RSI Range : 40 – 65
+2026-04-02 11:37:47,603 | INFO     |   Max Trades: 3
+2026-04-02 11:37:47,603 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 11:37:47,603 | INFO     | =======================================================
+2026-04-02 11:37:47,673 | INFO     | ✅ NSE session ready
+2026-04-02 11:37:47,673 | INFO     | 📥 Loading previous close prices...
+2026-04-02 11:37:47,729 | INFO     |   HDFCBANK: ₹742.25
+2026-04-02 11:37:48,072 | INFO     |   ICICIBANK: ₹1212.7
+2026-04-02 11:37:48,420 | INFO     |   AXISBANK: ₹1193.1
+2026-04-02 11:37:48,771 | INFO     |   KOTAKBANK: ₹356.05
+2026-04-02 11:37:49,110 | INFO     |   SBIN: ₹1017.8
+2026-04-02 11:37:49,474 | INFO     |   BAJFINANCE: ₹817.3
+2026-04-02 11:37:49,807 | INFO     |   BAJAJFINSV: ₹1647.0
+2026-04-02 11:37:50,147 | INFO     |   INDUSINDBK: ₹785.65
+2026-04-02 11:37:50,487 | INFO     |   RELIANCE: ₹1369.2
+2026-04-02 11:37:50,832 | INFO     |   TATAMOTORS: ₹0.0
+2026-04-02 11:37:51,176 | INFO     |   MARUTI: ₹12509.0
+2026-04-02 11:37:51,517 | INFO     |   ONGC: ₹288.05
+2026-04-02 11:37:51,855 | INFO     |   NTPC: ₹364.65
+2026-04-02 11:37:52,215 | INFO     |   POWERGRID: ₹292.8
+2026-04-02 11:37:52,557 | INFO     |   COALINDIA: ₹449.4
+2026-04-02 11:37:52,894 | INFO     |   HDFCBANK: ₹742.25
+2026-04-02 11:37:53,236 | INFO     |   ETERNAL: ₹236.52
+2026-04-02 11:37:53,579 | INFO     |   SBIN: ₹1017.8
+2026-04-02 11:37:53,924 | INFO     |   LT: ₹3607.5
+2026-04-02 11:37:54,262 | INFO     |   INDIGO: ₹4180.8
+2026-04-02 11:37:58,756 | INFO     |   M&M: ₹0.0
+2026-04-02 11:37:59,094 | INFO     |   AXISBANK: ₹1193.1
+2026-04-02 11:37:59,446 | INFO     |   TMCV: ₹396.05
+2026-04-02 11:37:59,783 | INFO     |   SUNPHARMA: ₹1728.5
+2026-04-02 11:38:00,136 | INFO     |   MAZDOCK: ₹2318.2
+2026-04-02 11:38:00,484 | INFO     |   SHRIRAMFIN: ₹900.55
+2026-04-02 11:38:00,818 | INFO     |   KOTAKBANK: ₹356.05
+2026-04-02 11:38:01,187 | INFO     |   JIOFIN: ₹231.93
+2026-04-02 11:38:01,534 | INFO     |   ADANIPORTS: ₹1385.4
+2026-04-02 11:38:01,884 | INFO     |   BPCL: ₹281.25
+2026-04-02 11:38:02,221 | INFO     |   ADANIENT: ₹1842.5
+2026-04-02 11:38:02,576 | INFO     |   PFC: ₹397.7
+2026-04-02 11:38:02,917 | INFO     |   ASIANPAINT: ₹2225.8
+2026-04-02 11:38:03,278 | INFO     |   DLF: ₹509.75
+2026-04-02 11:38:03,622 | INFO     |   DRREDDY: ₹1209.6
+2026-04-02 11:38:03,979 | INFO     |   TMPV: ₹302.95
+2026-04-02 11:38:04,366 | INFO     |   HINDZINC: ₹524.45
+2026-04-02 11:38:04,727 | INFO     |   ADANIENSOL: ₹956.6
+2026-04-02 11:38:05,078 | INFO     |   LODHA: ₹685.35
+2026-04-02 11:38:05,439 | INFO     |   BSE: ₹2867.6
+2026-04-02 11:38:05,809 | INFO     |   MCX: ₹2469.7
+2026-04-02 11:38:06,159 | INFO     |   COFORGE: ₹1153.9
+2026-04-02 11:38:06,551 | INFO     |   BLUESTARCO: ₹1556.3
+2026-04-02 11:38:06,941 | INFO     |   COCHINSHIP: ₹1338.6
+2026-04-02 11:38:07,319 | INFO     |   ASTRAL: ₹1570.3
+2026-04-02 11:38:07,676 | INFO     |   HINDPETRO: ₹335.55
+2026-04-02 11:38:08,024 | INFO     |   GODREJPROP: ₹1508.1
+2026-04-02 11:38:08,396 | INFO     |   BDL: ₹1203.9
+2026-04-02 11:38:08,741 | INFO     |   RVNL: ₹262.61
+2026-04-02 11:38:09,085 | INFO     |   INDUSINDBK: ₹785.65
+2026-04-02 11:38:09,439 | INFO     |   AUBANK: ₹874.9
+2026-04-02 11:38:09,797 | INFO     |   INDIANB: ₹888.0
+2026-04-02 11:38:10,144 | INFO     |   JSWENERGY: ₹484.15
+2026-04-02 11:38:10,499 | INFO     |   NYKAA: ₹239.97
+2026-04-02 11:38:10,858 | INFO     |   KPITTECH: ₹674.3
+2026-04-02 11:38:11,218 | INFO     |   LTF: ₹244.64
+2026-04-02 11:38:11,568 | INFO     |   JUBLFOOD: ₹443.7
+2026-04-02 11:38:15,975 | INFO     |   M&MFIN: ₹0.0
+2026-04-02 11:38:16,357 | INFO     |   GRSE: ₹2359.3
+2026-04-02 11:38:16,748 | INFO     |   HINDCOPPER: ₹496.0
+2026-04-02 11:38:17,149 | INFO     |   PGEL: ₹480.9
+2026-04-02 11:38:17,511 | INFO     |   ACUTAAS: ₹2332.1
+2026-04-02 11:38:17,867 | INFO     |   CDSL: ₹1182.8
+2026-04-02 11:38:18,252 | INFO     |   HSCL: ₹446.85
+2026-04-02 11:38:18,637 | INFO     |   TEJASNET: ₹420.05
+2026-04-02 11:38:19,018 | INFO     |   CHENNPETRO: ₹1017.85
+2026-04-02 11:38:19,364 | INFO     |   ANGELONE: ₹240.6
+2026-04-02 11:38:19,770 | INFO     |   ANANTRAJ: ₹448.2
+2026-04-02 11:38:20,155 | INFO     |   GMDCLTD: ₹580.3
+2026-04-02 11:38:20,512 | INFO     |   JBMA: ₹561.1
+2026-04-02 11:38:20,900 | INFO     |   BLS: ₹255.41
+2026-04-02 11:38:21,289 | INFO     |   TARIL: ₹274.3
+2026-04-02 11:38:21,677 | INFO     |   PCBL: ₹257.62
+2026-04-02 11:38:22,033 | INFO     |   JWL: ₹256.68
+2026-04-02 11:38:22,424 | INFO     |   FIRSTCRY: ₹220.67
+2026-04-02 11:38:22,784 | INFO     |   JSWINFRA: ₹247.95
+2026-04-02 11:38:23,104 | INFO     | 🤖 Telegram bot started
+2026-04-02 11:38:24,762 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getMe "HTTP/1.1 200 OK"
+2026-04-02 11:38:25,129 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/deleteWebhook "HTTP/1.1 200 OK"
+2026-04-02 11:38:25,133 | INFO     | Scheduler started
+2026-04-02 11:38:25,133 | INFO     | Application started
+2026-04-02 11:38:26,079 | INFO     | 
+⏳ Waiting for trade window 09:45...
+
+2026-04-02 11:38:26,080 | INFO     | 🔍 Scanning 76 stocks for short setup (primary 15 + secondary 61)...
+2026-04-02 11:38:26,164 | INFO     | HDFCBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:26,239 | INFO     | ICICIBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:26,325 | INFO     | AXISBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:26,398 | INFO     | KOTAKBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:26,479 | INFO     | SBIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:26,545 | INFO     | BAJFINANCE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:26,693 | INFO     | BAJAJFINSV: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:26,833 | INFO     | INDUSINDBK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:26,899 | INFO     | RELIANCE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:26,927 | INFO     | TATAMOTORS: No quote data. Skip.
+2026-04-02 11:38:27,004 | INFO     | MARUTI: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:27,081 | INFO     | ONGC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:27,153 | INFO     | NTPC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:27,340 | INFO     | POWERGRID: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:27,520 | INFO     | COALINDIA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:27,575 | INFO     | HDFCBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:27,718 | INFO     | ETERNAL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:27,775 | INFO     | SBIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:27,845 | INFO     | LT: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:27,987 | INFO     | INDIGO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:28,016 | INFO     | M&M: No quote data. Skip.
+2026-04-02 11:38:28,077 | INFO     | AXISBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:28,165 | INFO     | TMCV: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:28,351 | INFO     | SUNPHARMA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:28,579 | INFO     | MAZDOCK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:28,722 | INFO     | SHRIRAMFIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:28,775 | INFO     | KOTAKBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:28,942 | INFO     | JIOFIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:29,098 | INFO     | ADANIPORTS: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:29,179 | INFO     | BPCL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:29,242 | INFO     | ADANIENT: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:29,316 | INFO     | PFC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:29,465 | INFO     | ASIANPAINT: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:29,549 | INFO     | DLF: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:29,695 | INFO     | DRREDDY: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:29,779 | INFO     | TMPV: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:29,916 | INFO     | HINDZINC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:30,058 | INFO     | ADANIENSOL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:30,142 | INFO     | LODHA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:30,222 | INFO     | BSE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:30,301 | INFO     | MCX: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:30,459 | INFO     | COFORGE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:30,659 | INFO     | BLUESTARCO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:30,806 | INFO     | COCHINSHIP: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:30,957 | INFO     | ASTRAL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:31,193 | INFO     | HINDPETRO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:31,336 | INFO     | GODREJPROP: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:31,410 | INFO     | BDL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:31,504 | INFO     | RVNL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:31,554 | INFO     | INDUSINDBK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:31,756 | INFO     | AUBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:31,903 | INFO     | INDIANB: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:32,049 | INFO     | JSWENERGY: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:32,134 | INFO     | NYKAA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:32,296 | INFO     | KPITTECH: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:32,376 | INFO     | LTF: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:32,522 | INFO     | JUBLFOOD: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:32,553 | INFO     | M&MFIN: No quote data. Skip.
+2026-04-02 11:38:32,629 | INFO     | GRSE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:32,772 | INFO     | HINDCOPPER: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:32,854 | INFO     | PGEL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:32,996 | INFO     | ACUTAAS: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:33,082 | INFO     | CDSL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:33,195 | INFO     | HSCL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:33,360 | INFO     | TEJASNET: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:33,592 | INFO     | CHENNPETRO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:33,765 | INFO     | ANGELONE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:33,942 | INFO     | ANANTRAJ: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:34,102 | INFO     | GMDCLTD: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:34,186 | INFO     | JBMA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:34,298 | INFO     | BLS: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:34,386 | INFO     | TARIL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:34,464 | INFO     | PCBL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:34,546 | INFO     | JWL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:34,690 | INFO     | FIRSTCRY: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:34,850 | INFO     | JSWINFRA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:38:35,874 | INFO     | 💤 Next scan in 5 mins...
+
+2026-04-02 11:38:36,640 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:38:47,004 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:38:57,426 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:39:07,787 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:39:18,156 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:39:28,556 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:39:32,852 | INFO     | =======================================================
+2026-04-02 11:39:32,852 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 11:39:32,852 | INFO     |   Mode      : LIVE
+2026-04-02 11:39:32,852 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 11:39:32,852 | INFO     |   VWAP Range: within 0.6% below VWAP
+2026-04-02 11:39:32,852 | INFO     |   RSI Range : 40 – 65
+2026-04-02 11:39:32,852 | INFO     |   Max Trades: 3
+2026-04-02 11:39:32,852 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 11:39:32,852 | INFO     | =======================================================
+2026-04-02 11:39:32,925 | INFO     | ✅ NSE session ready
+2026-04-02 11:39:32,925 | INFO     | 📥 Loading previous close prices...
+2026-04-02 11:39:32,974 | INFO     |   HDFCBANK: ₹742.25
+2026-04-02 11:39:33,317 | INFO     |   ICICIBANK: ₹1212.7
+2026-04-02 11:39:33,660 | INFO     |   AXISBANK: ₹1193.1
+2026-04-02 11:39:34,009 | INFO     |   KOTAKBANK: ₹356.05
+2026-04-02 11:39:34,381 | INFO     |   SBIN: ₹1017.8
+2026-04-02 11:39:34,715 | INFO     |   BAJFINANCE: ₹817.3
+2026-04-02 11:39:35,072 | INFO     |   BAJAJFINSV: ₹1647.0
+2026-04-02 11:39:35,417 | INFO     |   INDUSINDBK: ₹785.65
+2026-04-02 11:39:35,751 | INFO     |   RELIANCE: ₹1369.2
+2026-04-02 11:39:36,104 | INFO     |   TATAMOTORS: ₹0.0
+2026-04-02 11:39:36,438 | INFO     |   MARUTI: ₹12509.0
+2026-04-02 11:39:36,769 | INFO     |   ONGC: ₹288.05
+2026-04-02 11:39:37,105 | INFO     |   NTPC: ₹364.65
+2026-04-02 11:39:37,447 | INFO     |   POWERGRID: ₹292.8
+2026-04-02 11:39:37,787 | INFO     |   COALINDIA: ₹449.4
+2026-04-02 11:39:38,117 | INFO     |   HDFCBANK: ₹742.25
+2026-04-02 11:39:38,458 | INFO     |   ETERNAL: ₹236.52
+2026-04-02 11:39:38,796 | INFO     |   SBIN: ₹1017.8
+2026-04-02 11:39:39,133 | INFO     |   LT: ₹3607.5
+2026-04-02 11:39:39,469 | INFO     |   INDIGO: ₹4180.8
+2026-04-02 11:39:39,849 | INFO     |   M&M: ₹0.0
+2026-04-02 11:39:40,186 | INFO     |   AXISBANK: ₹1193.1
+2026-04-02 11:39:40,531 | INFO     |   TMCV: ₹396.05
+2026-04-02 11:39:40,867 | INFO     |   SUNPHARMA: ₹1728.5
+2026-04-02 11:39:41,227 | INFO     |   MAZDOCK: ₹2318.2
+2026-04-02 11:39:41,571 | INFO     |   SHRIRAMFIN: ₹900.55
+2026-04-02 11:39:41,901 | INFO     |   KOTAKBANK: ₹356.05
+2026-04-02 11:39:42,232 | INFO     |   JIOFIN: ₹231.93
+2026-04-02 11:39:42,588 | INFO     |   ADANIPORTS: ₹1385.4
+2026-04-02 11:39:42,940 | INFO     |   BPCL: ₹281.25
+2026-04-02 11:39:43,269 | INFO     |   ADANIENT: ₹1842.5
+2026-04-02 11:39:43,609 | INFO     |   PFC: ₹397.7
+2026-04-02 11:39:43,947 | INFO     |   ASIANPAINT: ₹2225.8
+2026-04-02 11:39:44,299 | INFO     |   DLF: ₹509.75
+2026-04-02 11:39:44,656 | INFO     |   DRREDDY: ₹1209.6
+2026-04-02 11:39:45,017 | INFO     |   TMPV: ₹302.95
+2026-04-02 11:39:45,358 | INFO     |   HINDZINC: ₹524.45
+2026-04-02 11:39:45,763 | INFO     |   ADANIENSOL: ₹956.6
+2026-04-02 11:39:46,109 | INFO     |   LODHA: ₹685.35
+2026-04-02 11:39:46,458 | INFO     |   BSE: ₹2867.6
+2026-04-02 11:39:46,863 | INFO     |   MCX: ₹2469.7
+2026-04-02 11:39:47,210 | INFO     |   COFORGE: ₹1153.9
+2026-04-02 11:39:47,569 | INFO     |   BLUESTARCO: ₹1556.3
+2026-04-02 11:39:47,988 | INFO     |   COCHINSHIP: ₹1338.6
+2026-04-02 11:39:48,328 | INFO     |   ASTRAL: ₹1570.3
+2026-04-02 11:39:48,681 | INFO     |   HINDPETRO: ₹335.55
+2026-04-02 11:39:49,027 | INFO     |   GODREJPROP: ₹1508.1
+2026-04-02 11:39:49,367 | INFO     |   BDL: ₹1203.9
+2026-04-02 11:39:49,711 | INFO     |   RVNL: ₹262.61
+2026-04-02 11:39:50,049 | INFO     |   INDUSINDBK: ₹785.65
+2026-04-02 11:39:50,460 | INFO     |   AUBANK: ₹874.9
+2026-04-02 11:39:50,830 | INFO     |   INDIANB: ₹888.0
+2026-04-02 11:39:51,170 | INFO     |   JSWENERGY: ₹484.15
+2026-04-02 11:39:51,516 | INFO     |   NYKAA: ₹239.97
+2026-04-02 11:39:51,859 | INFO     |   KPITTECH: ₹674.3
+2026-04-02 11:39:52,297 | INFO     |   LTF: ₹244.64
+2026-04-02 11:39:52,680 | INFO     |   JUBLFOOD: ₹443.7
+2026-04-02 11:39:53,041 | INFO     |   M&MFIN: ₹0.0
+2026-04-02 11:39:53,440 | INFO     |   GRSE: ₹2359.3
+2026-04-02 11:39:53,783 | INFO     |   HINDCOPPER: ₹496.0
+2026-04-02 11:39:54,171 | INFO     |   PGEL: ₹480.9
+2026-04-02 11:39:54,579 | INFO     |   ACUTAAS: ₹2332.1
+2026-04-02 11:39:54,922 | INFO     |   CDSL: ₹1182.8
+2026-04-02 11:39:55,292 | INFO     |   HSCL: ₹446.85
+2026-04-02 11:39:55,638 | INFO     |   TEJASNET: ₹420.05
+2026-04-02 11:39:56,045 | INFO     |   CHENNPETRO: ₹1017.85
+2026-04-02 11:39:56,392 | INFO     |   ANGELONE: ₹240.6
+2026-04-02 11:39:56,744 | INFO     |   ANANTRAJ: ₹448.2
+2026-04-02 11:39:57,145 | INFO     |   GMDCLTD: ₹580.3
+2026-04-02 11:39:57,557 | INFO     |   JBMA: ₹561.1
+2026-04-02 11:39:57,905 | INFO     |   BLS: ₹255.41
+2026-04-02 11:39:58,339 | INFO     |   TARIL: ₹274.3
+2026-04-02 11:39:58,684 | INFO     |   PCBL: ₹257.62
+2026-04-02 11:39:59,035 | INFO     |   JWL: ₹256.68
+2026-04-02 11:39:59,427 | INFO     |   FIRSTCRY: ₹220.67
+2026-04-02 11:39:59,825 | INFO     |   JSWINFRA: ₹247.95
+2026-04-02 11:40:00,146 | INFO     | 🤖 Telegram bot started
+2026-04-02 11:40:01,687 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getMe "HTTP/1.1 200 OK"
+2026-04-02 11:40:02,142 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/deleteWebhook "HTTP/1.1 200 OK"
+2026-04-02 11:40:02,144 | INFO     | Scheduler started
+2026-04-02 11:40:02,144 | INFO     | Application started
+2026-04-02 11:40:03,123 | INFO     | 
+⏳ Waiting for trade window 09:45...
+
+2026-04-02 11:40:03,124 | INFO     | 🔍 Scanning 76 stocks for short setup (primary 15 + secondary 61)...
+2026-04-02 11:40:03,282 | INFO     | HDFCBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:03,435 | INFO     | ICICIBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:03,579 | INFO     | AXISBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:03,739 | INFO     | KOTAKBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:03,896 | INFO     | SBIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:04,050 | INFO     | BAJFINANCE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:04,221 | INFO     | BAJAJFINSV: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:04,393 | INFO     | INDUSINDBK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:04,585 | INFO     | RELIANCE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:04,609 | INFO     | TATAMOTORS: No quote data. Skip.
+2026-04-02 11:40:04,756 | INFO     | MARUTI: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:04,896 | INFO     | ONGC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:05,075 | INFO     | NTPC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:05,211 | INFO     | POWERGRID: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:05,354 | INFO     | COALINDIA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:05,402 | INFO     | HDFCBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:05,553 | INFO     | ETERNAL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:05,600 | INFO     | SBIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:05,756 | INFO     | LT: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:05,896 | INFO     | INDIGO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:05,923 | INFO     | M&M: No quote data. Skip.
+2026-04-02 11:40:05,971 | INFO     | AXISBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:06,161 | INFO     | TMCV: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:06,319 | INFO     | SUNPHARMA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:06,499 | INFO     | MAZDOCK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:06,664 | INFO     | SHRIRAMFIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:06,712 | INFO     | KOTAKBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:06,866 | INFO     | JIOFIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:07,022 | INFO     | ADANIPORTS: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:07,173 | INFO     | BPCL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:07,334 | INFO     | ADANIENT: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:07,525 | INFO     | PFC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:07,707 | INFO     | ASIANPAINT: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:08,407 | INFO     | DLF: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:08,577 | INFO     | DRREDDY: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:08,778 | INFO     | TMPV: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:08,948 | INFO     | HINDZINC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:09,099 | INFO     | ADANIENSOL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:09,417 | INFO     | LODHA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:09,564 | INFO     | BSE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:09,730 | INFO     | MCX: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:09,867 | INFO     | COFORGE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:10,017 | INFO     | BLUESTARCO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:10,167 | INFO     | COCHINSHIP: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:10,329 | INFO     | ASTRAL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:10,470 | INFO     | HINDPETRO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:10,694 | INFO     | GODREJPROP: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:10,873 | INFO     | BDL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:11,064 | INFO     | RVNL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:11,120 | INFO     | INDUSINDBK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:11,286 | INFO     | AUBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:11,457 | INFO     | INDIANB: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:11,622 | INFO     | JSWENERGY: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:11,806 | INFO     | NYKAA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:11,999 | INFO     | KPITTECH: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:12,197 | INFO     | LTF: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:12,370 | INFO     | JUBLFOOD: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:12,395 | INFO     | M&MFIN: No quote data. Skip.
+2026-04-02 11:40:12,585 | INFO     | GRSE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:12,776 | INFO     | HINDCOPPER: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:12,960 | INFO     | PGEL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:13,164 | INFO     | ACUTAAS: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:13,356 | INFO     | CDSL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:13,525 | INFO     | HSCL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:13,594 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:40:13,717 | INFO     | TEJASNET: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:13,958 | INFO     | CHENNPETRO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:14,141 | INFO     | ANGELONE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:14,363 | INFO     | ANANTRAJ: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:14,565 | INFO     | GMDCLTD: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:14,750 | INFO     | JBMA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:14,983 | INFO     | BLS: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:15,241 | INFO     | TARIL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:15,466 | INFO     | PCBL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:15,676 | INFO     | JWL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:15,856 | INFO     | FIRSTCRY: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:16,082 | INFO     | JSWINFRA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:40:17,079 | INFO     | 💤 Next scan in 5 mins...
+
+2026-04-02 11:40:23,964 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:40:34,332 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:40:44,699 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:40:49,887 | INFO     | =======================================================
+2026-04-02 11:40:49,887 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 11:40:49,887 | INFO     |   Mode      : LIVE
+2026-04-02 11:40:49,887 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 11:40:49,887 | INFO     |   VWAP Range: within 0.6% below VWAP
+2026-04-02 11:40:49,887 | INFO     |   RSI Range : 40 – 65
+2026-04-02 11:40:49,887 | INFO     |   Max Trades: 3
+2026-04-02 11:40:49,887 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 11:40:49,887 | INFO     | =======================================================
+2026-04-02 11:40:49,958 | INFO     | ✅ NSE session ready
+2026-04-02 11:40:49,958 | INFO     | 📥 Loading previous close prices...
+2026-04-02 11:40:50,018 | INFO     |   HDFCBANK: ₹742.25
+2026-04-02 11:40:50,355 | INFO     |   ICICIBANK: ₹1212.7
+2026-04-02 11:40:50,688 | INFO     |   AXISBANK: ₹1193.1
+2026-04-02 11:40:51,040 | INFO     |   KOTAKBANK: ₹356.05
+2026-04-02 11:40:51,383 | INFO     |   SBIN: ₹1017.8
+2026-04-02 11:40:51,718 | INFO     |   BAJFINANCE: ₹817.3
+2026-04-02 11:40:52,068 | INFO     |   BAJAJFINSV: ₹1647.0
+2026-04-02 11:40:52,419 | INFO     |   INDUSINDBK: ₹785.65
+2026-04-02 11:40:52,758 | INFO     |   RELIANCE: ₹1369.2
+2026-04-02 11:40:53,093 | INFO     |   TATAMOTORS: ₹0.0
+2026-04-02 11:40:53,439 | INFO     |   MARUTI: ₹12509.0
+2026-04-02 11:40:53,769 | INFO     |   ONGC: ₹288.05
+2026-04-02 11:40:54,108 | INFO     |   NTPC: ₹364.65
+2026-04-02 11:40:54,440 | INFO     |   POWERGRID: ₹292.8
+2026-04-02 11:40:54,779 | INFO     |   COALINDIA: ₹449.4
+2026-04-02 11:40:55,113 | INFO     |   HDFCBANK: ₹742.25
+2026-04-02 11:40:55,463 | INFO     |   ETERNAL: ₹236.52
+2026-04-02 11:40:55,803 | INFO     |   SBIN: ₹1017.8
+2026-04-02 11:40:56,144 | INFO     |   LT: ₹3607.5
+2026-04-02 11:40:56,482 | INFO     |   INDIGO: ₹4180.8
+2026-04-02 11:40:56,827 | INFO     |   M&M: ₹0.0
+2026-04-02 11:40:57,163 | INFO     |   AXISBANK: ₹1193.1
+2026-04-02 11:40:57,515 | INFO     |   TMCV: ₹396.05
+2026-04-02 11:40:57,850 | INFO     |   SUNPHARMA: ₹0.0
+2026-04-02 11:40:58,196 | INFO     |   MAZDOCK: ₹2318.2
+2026-04-02 11:40:58,535 | INFO     |   SHRIRAMFIN: ₹900.55
+2026-04-02 11:40:58,870 | INFO     |   KOTAKBANK: ₹356.05
+2026-04-02 11:40:59,212 | INFO     |   JIOFIN: ₹231.93
+2026-04-02 11:40:59,544 | INFO     |   ADANIPORTS: ₹1385.4
+2026-04-02 11:40:59,882 | INFO     |   BPCL: ₹281.25
+2026-04-02 11:41:00,216 | INFO     |   ADANIENT: ₹1842.5
+2026-04-02 11:41:00,574 | INFO     |   PFC: ₹397.7
+2026-04-02 11:41:00,909 | INFO     |   ASIANPAINT: ₹2225.8
+2026-04-02 11:41:01,248 | INFO     |   DLF: ₹509.75
+2026-04-02 11:41:01,585 | INFO     |   DRREDDY: ₹1209.6
+2026-04-02 11:41:01,932 | INFO     |   TMPV: ₹302.95
+2026-04-02 11:41:02,286 | INFO     |   HINDZINC: ₹524.45
+2026-04-02 11:41:02,638 | INFO     |   ADANIENSOL: ₹956.6
+2026-04-02 11:41:02,988 | INFO     |   LODHA: ₹685.35
+2026-04-02 11:41:03,333 | INFO     |   BSE: ₹2867.6
+2026-04-02 11:41:03,681 | INFO     |   MCX: ₹2469.7
+2026-04-02 11:41:04,015 | INFO     |   COFORGE: ₹1153.9
+2026-04-02 11:41:04,360 | INFO     |   BLUESTARCO: ₹1556.3
+2026-04-02 11:41:04,740 | INFO     |   COCHINSHIP: ₹1338.6
+2026-04-02 11:41:05,084 | INFO     |   ASTRAL: ₹1570.3
+2026-04-02 11:41:05,450 | INFO     |   HINDPETRO: ₹335.55
+2026-04-02 11:41:05,806 | INFO     |   GODREJPROP: ₹1508.1
+2026-04-02 11:41:06,191 | INFO     |   BDL: ₹1203.9
+2026-04-02 11:41:06,541 | INFO     |   RVNL: ₹262.61
+2026-04-02 11:41:06,876 | INFO     |   INDUSINDBK: ₹785.65
+2026-04-02 11:41:07,223 | INFO     |   AUBANK: ₹874.9
+2026-04-02 11:41:07,604 | INFO     |   INDIANB: ₹888.0
+2026-04-02 11:41:07,946 | INFO     |   JSWENERGY: ₹484.15
+2026-04-02 11:41:08,300 | INFO     |   NYKAA: ₹239.97
+2026-04-02 11:41:08,657 | INFO     |   KPITTECH: ₹674.3
+2026-04-02 11:41:09,001 | INFO     |   LTF: ₹244.64
+2026-04-02 11:41:09,351 | INFO     |   JUBLFOOD: ₹443.7
+2026-04-02 11:41:09,693 | INFO     |   M&MFIN: ₹0.0
+2026-04-02 11:41:10,054 | INFO     |   GRSE: ₹2359.3
+2026-04-02 11:41:10,392 | INFO     |   HINDCOPPER: ₹496.0
+2026-04-02 11:41:10,753 | INFO     |   PGEL: ₹480.9
+2026-04-02 11:41:11,159 | INFO     |   ACUTAAS: ₹2332.1
+2026-04-02 11:41:11,496 | INFO     |   CDSL: ₹1182.8
+2026-04-02 11:41:11,877 | INFO     |   HSCL: ₹446.85
+2026-04-02 11:41:12,215 | INFO     |   TEJASNET: ₹420.05
+2026-04-02 11:41:12,599 | INFO     |   CHENNPETRO: ₹1017.85
+2026-04-02 11:41:12,945 | INFO     |   ANGELONE: ₹240.6
+2026-04-02 11:41:13,294 | INFO     |   ANANTRAJ: ₹448.2
+2026-04-02 11:41:13,685 | INFO     |   GMDCLTD: ₹580.3
+2026-04-02 11:41:14,053 | INFO     |   JBMA: ₹561.1
+2026-04-02 11:41:14,417 | INFO     |   BLS: ₹255.41
+2026-04-02 11:41:14,802 | INFO     |   TARIL: ₹274.3
+2026-04-02 11:41:15,139 | INFO     |   PCBL: ₹257.62
+2026-04-02 11:41:15,515 | INFO     |   JWL: ₹256.68
+2026-04-02 11:41:15,878 | INFO     |   FIRSTCRY: ₹220.67
+2026-04-02 11:41:16,253 | INFO     |   JSWINFRA: ₹247.95
+2026-04-02 11:41:16,576 | INFO     | 🤖 Telegram bot started
+2026-04-02 11:41:18,003 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getMe "HTTP/1.1 200 OK"
+2026-04-02 11:41:18,364 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/deleteWebhook "HTTP/1.1 200 OK"
+2026-04-02 11:41:18,368 | INFO     | Scheduler started
+2026-04-02 11:41:18,368 | INFO     | Application started
+2026-04-02 11:41:19,504 | INFO     | 
+⏳ Waiting for trade window 09:45...
+
+2026-04-02 11:41:19,504 | INFO     | 🔍 Scanning 76 stocks for short setup (primary 15 + secondary 61)...
+2026-04-02 11:41:19,660 | INFO     | HDFCBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:19,818 | INFO     | ICICIBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:19,988 | INFO     | AXISBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:20,158 | INFO     | KOTAKBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:20,340 | INFO     | SBIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:20,518 | INFO     | BAJFINANCE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:20,687 | INFO     | BAJAJFINSV: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:20,862 | INFO     | INDUSINDBK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:21,034 | INFO     | RELIANCE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:21,062 | INFO     | TATAMOTORS: No quote data. Skip.
+2026-04-02 11:41:21,225 | INFO     | MARUTI: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:21,385 | INFO     | ONGC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:21,537 | INFO     | NTPC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:21,707 | INFO     | POWERGRID: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:21,871 | INFO     | COALINDIA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:21,925 | INFO     | HDFCBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:22,175 | INFO     | ETERNAL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:22,238 | INFO     | SBIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:23,392 | INFO     | LT: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:23,556 | INFO     | INDIGO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:23,581 | INFO     | M&M: No quote data. Skip.
+2026-04-02 11:41:23,663 | INFO     | AXISBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:23,863 | INFO     | TMCV: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:23,894 | INFO     | SUNPHARMA: No quote data. Skip.
+2026-04-02 11:41:24,054 | INFO     | MAZDOCK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:24,239 | INFO     | SHRIRAMFIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:24,298 | INFO     | KOTAKBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:24,467 | INFO     | JIOFIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:24,622 | INFO     | ADANIPORTS: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:24,794 | INFO     | BPCL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:24,967 | INFO     | ADANIENT: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:25,141 | INFO     | PFC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:25,306 | INFO     | ASIANPAINT: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:25,481 | INFO     | DLF: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:25,641 | INFO     | DRREDDY: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:25,826 | INFO     | TMPV: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:25,993 | INFO     | HINDZINC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:26,165 | INFO     | ADANIENSOL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:26,345 | INFO     | LODHA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:26,519 | INFO     | BSE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:26,675 | INFO     | MCX: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:26,849 | INFO     | COFORGE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:27,008 | INFO     | BLUESTARCO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:27,231 | INFO     | COCHINSHIP: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:27,383 | INFO     | ASTRAL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:27,547 | INFO     | HINDPETRO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:27,708 | INFO     | GODREJPROP: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:27,914 | INFO     | BDL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:28,065 | INFO     | RVNL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:28,129 | INFO     | INDUSINDBK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:28,287 | INFO     | AUBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:28,446 | INFO     | INDIANB: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:28,605 | INFO     | JSWENERGY: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:28,763 | INFO     | NYKAA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:28,921 | INFO     | KPITTECH: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:29,112 | INFO     | LTF: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:29,303 | INFO     | JUBLFOOD: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:29,333 | INFO     | M&MFIN: No quote data. Skip.
+2026-04-02 11:41:29,495 | INFO     | GRSE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:29,661 | INFO     | HINDCOPPER: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:29,795 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:41:29,828 | INFO     | PGEL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:30,004 | INFO     | ACUTAAS: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:30,173 | INFO     | CDSL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:30,340 | INFO     | HSCL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:30,513 | INFO     | TEJASNET: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:30,742 | INFO     | CHENNPETRO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:30,942 | INFO     | ANGELONE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:31,186 | INFO     | ANANTRAJ: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:31,378 | INFO     | GMDCLTD: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:31,619 | INFO     | JBMA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:31,819 | INFO     | BLS: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:31,997 | INFO     | TARIL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:32,149 | INFO     | PCBL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:32,301 | INFO     | JWL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:32,477 | INFO     | FIRSTCRY: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:32,617 | INFO     | JSWINFRA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:41:33,544 | INFO     | 💤 Next scan in 5 mins...
+
+2026-04-02 11:41:40,154 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:41:50,513 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:42:00,869 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:42:05,627 | INFO     | =======================================================
+2026-04-02 11:42:05,627 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 11:42:05,627 | INFO     |   Mode      : LIVE
+2026-04-02 11:42:05,627 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 11:42:05,627 | INFO     |   VWAP Range: within 0.6% below VWAP
+2026-04-02 11:42:05,627 | INFO     |   RSI Range : 40 – 65
+2026-04-02 11:42:05,627 | INFO     |   Max Trades: 3
+2026-04-02 11:42:05,627 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 11:42:05,627 | INFO     | =======================================================
+2026-04-02 11:42:05,727 | INFO     | ✅ NSE session ready
+2026-04-02 11:42:05,727 | INFO     | 📥 Loading previous close prices...
+2026-04-02 11:42:05,800 | INFO     |   HDFCBANK: ₹742.25
+2026-04-02 11:42:06,137 | INFO     |   ICICIBANK: ₹1212.7
+2026-04-02 11:42:06,469 | INFO     |   AXISBANK: ₹1193.1
+2026-04-02 11:42:06,807 | INFO     |   KOTAKBANK: ₹356.05
+2026-04-02 11:42:07,146 | INFO     |   SBIN: ₹1017.8
+2026-04-02 11:42:07,485 | INFO     |   BAJFINANCE: ₹817.3
+2026-04-02 11:42:07,834 | INFO     |   BAJAJFINSV: ₹1647.0
+2026-04-02 11:42:08,178 | INFO     |   INDUSINDBK: ₹785.65
+2026-04-02 11:42:08,521 | INFO     |   RELIANCE: ₹1369.2
+2026-04-02 11:42:08,865 | INFO     |   TATAMOTORS: ₹0.0
+2026-04-02 11:42:09,225 | INFO     |   MARUTI: ₹12509.0
+2026-04-02 11:42:09,577 | INFO     |   ONGC: ₹288.05
+2026-04-02 11:42:09,931 | INFO     |   NTPC: ₹364.65
+2026-04-02 11:42:10,278 | INFO     |   POWERGRID: ₹292.8
+2026-04-02 11:42:10,858 | INFO     |   COALINDIA: ₹449.4
+2026-04-02 11:42:11,196 | INFO     |   HDFCBANK: ₹742.25
+2026-04-02 11:42:11,534 | INFO     |   ETERNAL: ₹236.52
+2026-04-02 11:42:11,873 | INFO     |   SBIN: ₹1017.8
+2026-04-02 11:42:12,226 | INFO     |   LT: ₹3607.5
+2026-04-02 11:42:12,568 | INFO     |   INDIGO: ₹4180.8
+2026-04-02 11:42:17,007 | INFO     |   M&M: ₹0.0
+2026-04-02 11:42:17,346 | INFO     |   AXISBANK: ₹1193.1
+2026-04-02 11:42:17,683 | INFO     |   TMCV: ₹396.05
+2026-04-02 11:42:18,039 | INFO     |   SUNPHARMA: ₹1728.5
+2026-04-02 11:42:18,403 | INFO     |   MAZDOCK: ₹2318.2
+2026-04-02 11:42:18,741 | INFO     |   SHRIRAMFIN: ₹900.55
+2026-04-02 11:42:19,086 | INFO     |   KOTAKBANK: ₹356.05
+2026-04-02 11:42:19,439 | INFO     |   JIOFIN: ₹231.93
+2026-04-02 11:42:19,771 | INFO     |   ADANIPORTS: ₹1385.4
+2026-04-02 11:42:20,120 | INFO     |   BPCL: ₹281.25
+2026-04-02 11:42:20,459 | INFO     |   ADANIENT: ₹1842.5
+2026-04-02 11:42:20,806 | INFO     |   PFC: ₹397.7
+2026-04-02 11:42:21,155 | INFO     |   ASIANPAINT: ₹2225.8
+2026-04-02 11:42:21,530 | INFO     |   DLF: ₹509.75
+2026-04-02 11:42:21,877 | INFO     |   DRREDDY: ₹1209.6
+2026-04-02 11:42:22,226 | INFO     |   TMPV: ₹302.95
+2026-04-02 11:42:22,618 | INFO     |   HINDZINC: ₹524.45
+2026-04-02 11:42:22,961 | INFO     |   ADANIENSOL: ₹956.6
+2026-04-02 11:42:23,296 | INFO     |   LODHA: ₹685.35
+2026-04-02 11:42:23,634 | INFO     |   BSE: ₹2867.6
+2026-04-02 11:42:23,967 | INFO     |   MCX: ₹2469.7
+2026-04-02 11:42:24,311 | INFO     |   COFORGE: ₹1153.9
+2026-04-02 11:42:24,665 | INFO     |   BLUESTARCO: ₹1556.3
+2026-04-02 11:42:25,061 | INFO     |   COCHINSHIP: ₹1338.6
+2026-04-02 11:42:25,405 | INFO     |   ASTRAL: ₹1570.3
+2026-04-02 11:42:25,755 | INFO     |   HINDPETRO: ₹335.55
+2026-04-02 11:42:26,102 | INFO     |   GODREJPROP: ₹1508.1
+2026-04-02 11:42:26,488 | INFO     |   BDL: ₹1203.9
+2026-04-02 11:42:26,870 | INFO     |   RVNL: ₹262.61
+2026-04-02 11:42:27,197 | INFO     |   INDUSINDBK: ₹785.65
+2026-04-02 11:42:27,544 | INFO     |   AUBANK: ₹874.9
+2026-04-02 11:42:27,894 | INFO     |   INDIANB: ₹888.0
+2026-04-02 11:42:28,236 | INFO     |   JSWENERGY: ₹484.15
+2026-04-02 11:42:28,580 | INFO     |   NYKAA: ₹239.97
+2026-04-02 11:42:28,929 | INFO     |   KPITTECH: ₹674.3
+2026-04-02 11:42:29,292 | INFO     |   LTF: ₹244.64
+2026-04-02 11:42:29,636 | INFO     |   JUBLFOOD: ₹443.7
+2026-04-02 11:42:30,031 | INFO     |   M&MFIN: ₹0.0
+2026-04-02 11:42:30,431 | INFO     |   GRSE: ₹2359.3
+2026-04-02 11:42:30,798 | INFO     |   HINDCOPPER: ₹496.0
+2026-04-02 11:42:31,160 | INFO     |   PGEL: ₹480.9
+2026-04-02 11:42:31,527 | INFO     |   ACUTAAS: ₹2332.1
+2026-04-02 11:42:31,883 | INFO     |   CDSL: ₹1182.8
+2026-04-02 11:42:32,226 | INFO     |   HSCL: ₹446.85
+2026-04-02 11:42:32,637 | INFO     |   TEJASNET: ₹420.05
+2026-04-02 11:42:33,044 | INFO     |   CHENNPETRO: ₹1017.85
+2026-04-02 11:42:33,388 | INFO     |   ANGELONE: ₹240.6
+2026-04-02 11:42:33,745 | INFO     |   ANANTRAJ: ₹448.2
+2026-04-02 11:42:34,077 | INFO     |   GMDCLTD: ₹580.3
+2026-04-02 11:42:34,456 | INFO     |   JBMA: ₹561.1
+2026-04-02 11:42:34,805 | INFO     |   BLS: ₹255.41
+2026-04-02 11:42:35,172 | INFO     |   TARIL: ₹274.3
+2026-04-02 11:42:35,564 | INFO     |   PCBL: ₹257.62
+2026-04-02 11:42:35,939 | INFO     |   JWL: ₹256.68
+2026-04-02 11:42:36,328 | INFO     |   FIRSTCRY: ₹220.67
+2026-04-02 11:42:36,738 | INFO     |   JSWINFRA: ₹247.95
+2026-04-02 11:42:37,058 | INFO     | 🤖 Telegram bot started
+2026-04-02 11:42:38,614 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getMe "HTTP/1.1 200 OK"
+2026-04-02 11:42:39,021 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/deleteWebhook "HTTP/1.1 200 OK"
+2026-04-02 11:42:39,024 | INFO     | Scheduler started
+2026-04-02 11:42:39,025 | INFO     | Application started
+2026-04-02 11:42:40,058 | INFO     | 
+⏳ Waiting for trade window 09:45...
+
+2026-04-02 11:42:40,058 | INFO     | 🔍 Scanning 76 stocks for short setup (primary 15 + secondary 61)...
+2026-04-02 11:42:40,227 | INFO     | HDFCBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:40,376 | INFO     | ICICIBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:40,528 | INFO     | AXISBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:40,712 | INFO     | KOTAKBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:40,868 | INFO     | SBIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:41,030 | INFO     | BAJFINANCE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:41,211 | INFO     | BAJAJFINSV: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:41,374 | INFO     | INDUSINDBK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:41,558 | INFO     | RELIANCE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:41,596 | INFO     | TATAMOTORS: No quote data. Skip.
+2026-04-02 11:42:41,754 | INFO     | MARUTI: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:41,914 | INFO     | ONGC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:42,074 | INFO     | NTPC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:42,240 | INFO     | POWERGRID: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:42,389 | INFO     | COALINDIA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:42,448 | INFO     | HDFCBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:42,617 | INFO     | ETERNAL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:42,667 | INFO     | SBIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:42,818 | INFO     | LT: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:42,993 | INFO     | INDIGO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:43,023 | INFO     | M&M: No quote data. Skip.
+2026-04-02 11:42:43,083 | INFO     | AXISBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:43,227 | INFO     | TMCV: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:43,379 | INFO     | SUNPHARMA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:43,561 | INFO     | MAZDOCK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:43,729 | INFO     | SHRIRAMFIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:43,786 | INFO     | KOTAKBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:43,945 | INFO     | JIOFIN: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:44,096 | INFO     | ADANIPORTS: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:44,262 | INFO     | BPCL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:44,420 | INFO     | ADANIENT: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:44,567 | INFO     | PFC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:44,718 | INFO     | ASIANPAINT: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:44,872 | INFO     | DLF: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:45,026 | INFO     | DRREDDY: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:45,195 | INFO     | TMPV: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:45,340 | INFO     | HINDZINC: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:45,503 | INFO     | ADANIENSOL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:45,669 | INFO     | LODHA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:45,868 | INFO     | BSE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:46,023 | INFO     | MCX: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:46,220 | INFO     | COFORGE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:46,390 | INFO     | BLUESTARCO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:46,535 | INFO     | COCHINSHIP: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:46,695 | INFO     | ASTRAL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:46,880 | INFO     | HINDPETRO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:47,047 | INFO     | GODREJPROP: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:47,209 | INFO     | BDL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:47,378 | INFO     | RVNL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:47,435 | INFO     | INDUSINDBK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:47,653 | INFO     | AUBANK: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:47,841 | INFO     | INDIANB: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:48,005 | INFO     | JSWENERGY: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:48,203 | INFO     | NYKAA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:48,545 | INFO     | KPITTECH: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:48,716 | INFO     | LTF: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:48,939 | INFO     | JUBLFOOD: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:48,966 | INFO     | M&MFIN: No quote data. Skip.
+2026-04-02 11:42:49,132 | INFO     | GRSE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:49,285 | INFO     | HINDCOPPER: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:49,467 | INFO     | PGEL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:49,621 | INFO     | ACUTAAS: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:49,780 | INFO     | CDSL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:49,943 | INFO     | HSCL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:50,099 | INFO     | TEJASNET: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:50,268 | INFO     | CHENNPETRO: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:50,423 | INFO     | ANGELONE: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:50,449 | INFO     | HTTP Request: POST https://api.telegram.org/bot8676883652:AAE0z3rCGdu9hbmUUI2C8ZeRD-oyZ6Q9iJs/getUpdates "HTTP/1.1 200 OK"
+2026-04-02 11:42:50,592 | INFO     | ANANTRAJ: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:50,733 | INFO     | GMDCLTD: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:50,903 | INFO     | JBMA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:51,060 | INFO     | BLS: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:51,198 | INFO     | TARIL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:51,360 | INFO     | PCBL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:51,518 | INFO     | JWL: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:51,673 | INFO     | FIRSTCRY: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:52,030 | INFO     | JSWINFRA: Insufficient candle data (0 candles). Skip.
+2026-04-02 11:42:53,035 | INFO     | 💤 Next scan in 5 mins...
+
