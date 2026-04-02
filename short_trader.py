@@ -25,6 +25,7 @@
 
 import os
 import time
+import json
 import logging
 import requests
 import pandas as pd
@@ -36,6 +37,7 @@ from dotenv import load_dotenv
 from kiteconnect import KiteConnect
 from telegram import Update, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import Application, CallbackQueryHandler, ContextTypes
+from typing import Optional
 
 # ─────────────────────────────────────────
 #  LOAD ENV
@@ -46,7 +48,9 @@ load_dotenv()
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID   = os.getenv("TELEGRAM_CHAT_ID")
 KITE_API_KEY       = os.getenv("KITE_API_KEY")
+KITE_API_SECRET    = os.getenv("KITE_API_SECRET")
 KITE_REQUEST_TOKEN = os.getenv("KITE_REQUEST_TOKEN")  # Fresh every morning!
+KITE_ACCESS_TOKEN  = os.getenv("KITE_ACCESS_TOKEN")   # Optional persistent, if available
 TRADING_MODE       = os.getenv("TRADING_MODE", "paper")  # "live" or "paper"
 
 # ─────────────────────────────────────────
@@ -140,7 +144,7 @@ def nse_init():
         log.error(f"NSE init failed: {e}")
 
 
-def get_quote(symbol: str) -> dict | None:
+def get_quote(symbol: str) -> Optional[dict]:
     url = f"https://www.nseindia.com/api/quote-equity?symbol={symbol}"
     try:
         r = nse.get(url, timeout=10)
@@ -214,7 +218,7 @@ def calc_vol_ratio(df: pd.DataFrame) -> float:
 #  SHORT SIGNAL DETECTION
 # ─────────────────────────────────────────
 
-def detect_short_signal(symbol: str) -> dict | None:
+def detect_short_signal(symbol: str) -> Optional[dict]:
     """
     Detects VWAP rejection short setup on gap-down stocks.
 
@@ -312,16 +316,51 @@ def detect_short_signal(symbol: str) -> dict | None:
 #  KITE SETUP
 # ─────────────────────────────────────────
 
-def setup_kite() -> KiteConnect | None:
+def load_saved_access_token() -> Optional[str]:
+    try:
+        with open("kitetoken.json", "r") as f:
+            data = json.load(f)
+            return data.get("access_token")
+    except (FileNotFoundError, json.JSONDecodeError):
+        return None
+
+
+def save_access_token(token: str):
+    with open("kitetoken.json", "w") as f:
+        json.dump({"access_token": token, "saved_at": time.time()}, f)
+
+
+def setup_kite() -> Optional[KiteConnect]:
     if TRADING_MODE == "paper":
         log.info("📋 PAPER MODE — No real orders")
         return None
-    try:
-        k    = KiteConnect(api_key=KITE_API_KEY)
-        data = k.generate_session(KITE_REQUEST_TOKEN, api_secret="")
-        k.set_access_token(data["access_token"])
-        log.info("✅ Kite login successful (LIVE mode)")
+
+    if not KITE_API_KEY or not KITE_API_SECRET:
+        log.error("❌ Missing Kite credentials. Set KITE_API_KEY and KITE_API_SECRET in .env")
+        raise SystemExit(1)
+
+    access_token = KITE_ACCESS_TOKEN or load_saved_access_token()
+
+    k = KiteConnect(api_key=KITE_API_KEY)
+    if access_token:
+        log.info("🔑 Using existing Kite access token")
+        k.set_access_token(access_token)
         return k
+
+    if not KITE_REQUEST_TOKEN:
+        log.error("❌ Missing KITE_REQUEST_TOKEN in .env. Generate via Kite login flow")
+        raise SystemExit(1)
+
+    try:
+        data = k.generate_session(KITE_REQUEST_TOKEN, api_secret=KITE_API_SECRET)
+        access_token = data.get("access_token")
+        if access_token:
+            k.set_access_token(access_token)
+            save_access_token(access_token)
+            log.info("✅ Kite login successful (LIVE mode) and access token saved")
+            return k
+        else:
+            raise ValueError("No access_token returned by Kite")
     except Exception as e:
         log.error(f"❌ Kite login failed: {e}")
         raise
@@ -519,12 +558,11 @@ async def button_handler(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
 
 
 def run_bot():
-    loop = asyncio.new_event_loop()
-    asyncio.set_event_loop(loop)
     app = Application.builder().token(TELEGRAM_BOT_TOKEN).build()
     app.add_handler(CallbackQueryHandler(button_handler))
     log.info("🤖 Telegram bot started")
-    app.run_polling(close_loop=False)
+    # run_polling in a thread cannot register signal handlers (only main thread allowed)
+    app.run_polling(close_loop=False, stop_signals=None)
 
 # ─────────────────────────────────────────
 #  TIME HELPERS

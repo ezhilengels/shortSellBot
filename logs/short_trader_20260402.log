@@ -1,0 +1,137 @@
+2026-04-02 10:42:40,727 | INFO     | =======================================================
+2026-04-02 10:42:40,727 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 10:42:40,727 | INFO     |   Mode      : LIVE
+2026-04-02 10:42:40,727 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 10:42:40,727 | INFO     |   VWAP Range: within 0.4% below VWAP
+2026-04-02 10:42:40,727 | INFO     |   RSI Range : 45 – 62
+2026-04-02 10:42:40,727 | INFO     |   Max Trades: 3
+2026-04-02 10:42:40,727 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 10:42:40,727 | INFO     | =======================================================
+2026-04-02 10:42:40,839 | ERROR    | ❌ Kite login failed: Token is invalid or has expired.
+2026-04-02 10:45:39,225 | INFO     | =======================================================
+2026-04-02 10:45:39,225 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 10:45:39,225 | INFO     |   Mode      : LIVE
+2026-04-02 10:45:39,225 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 10:45:39,226 | INFO     |   VWAP Range: within 0.4% below VWAP
+2026-04-02 10:45:39,226 | INFO     |   RSI Range : 45 – 62
+2026-04-02 10:45:39,226 | INFO     |   Max Trades: 3
+2026-04-02 10:45:39,226 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 10:45:39,226 | INFO     | =======================================================
+2026-04-02 10:45:39,303 | ERROR    | ❌ Kite login failed: Invalid `checksum`.
+2026-04-02 10:46:00,237 | INFO     | =======================================================
+2026-04-02 10:46:00,237 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 10:46:00,237 | INFO     |   Mode      : LIVE
+2026-04-02 10:46:00,237 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 10:46:00,237 | INFO     |   VWAP Range: within 0.4% below VWAP
+2026-04-02 10:46:00,237 | INFO     |   RSI Range : 45 – 62
+2026-04-02 10:46:00,237 | INFO     |   Max Trades: 3
+2026-04-02 10:46:00,237 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 10:46:00,237 | INFO     | =======================================================
+2026-04-02 10:46:00,321 | ERROR    | ❌ Kite login failed: Invalid `checksum`.
+2026-04-02 10:49:17,816 | INFO     | =======================================================
+2026-04-02 10:49:17,817 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 10:49:17,817 | INFO     |   Mode      : LIVE
+2026-04-02 10:49:17,817 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 10:49:17,817 | INFO     |   VWAP Range: within 0.4% below VWAP
+2026-04-02 10:49:17,817 | INFO     |   RSI Range : 45 – 62
+2026-04-02 10:49:17,817 | INFO     |   Max Trades: 3
+2026-04-02 10:49:17,817 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 10:49:17,817 | INFO     | =======================================================
+2026-04-02 10:49:17,817 | ERROR    | ❌ Missing Kite credentials. Set KITE_API_KEY, KITE_API_SECRET, KITE_REQUEST_TOKEN in .env
+2026-04-02 10:50:51,404 | INFO     | =======================================================
+2026-04-02 10:50:51,404 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 10:50:51,404 | INFO     |   Mode      : LIVE
+2026-04-02 10:50:51,404 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 10:50:51,404 | INFO     |   VWAP Range: within 0.4% below VWAP
+2026-04-02 10:50:51,404 | INFO     |   RSI Range : 45 – 62
+2026-04-02 10:50:51,404 | INFO     |   Max Trades: 3
+2026-04-02 10:50:51,404 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 10:50:51,404 | INFO     | =======================================================
+2026-04-02 10:50:51,541 | ERROR    | ❌ Kite login failed: Token is invalid or has expired.
+2026-04-02 10:52:02,283 | INFO     | =======================================================
+2026-04-02 10:52:02,283 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 10:52:02,283 | INFO     |   Mode      : LIVE
+2026-04-02 10:52:02,283 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 10:52:02,283 | INFO     |   VWAP Range: within 0.4% below VWAP
+2026-04-02 10:52:02,283 | INFO     |   RSI Range : 45 – 62
+2026-04-02 10:52:02,283 | INFO     |   Max Trades: 3
+2026-04-02 10:52:02,283 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 10:52:02,283 | INFO     | =======================================================
+2026-04-02 10:52:02,376 | INFO     | ✅ Kite login successful (LIVE mode)
+2026-04-02 10:52:02,457 | INFO     | ✅ NSE session ready
+2026-04-02 10:52:02,457 | INFO     | 📥 Loading previous close prices...
+2026-04-02 10:52:02,509 | INFO     |   HDFCBANK: ₹742.25
+2026-04-02 10:52:02,838 | INFO     |   ICICIBANK: ₹1212.7
+2026-04-02 10:52:03,169 | INFO     |   AXISBANK: ₹1193.1
+2026-04-02 10:52:03,520 | INFO     |   KOTAKBANK: ₹356.05
+2026-04-02 10:52:03,864 | INFO     |   SBIN: ₹1017.8
+2026-04-02 10:52:04,201 | INFO     |   BAJFINANCE: ₹817.3
+2026-04-02 10:52:04,575 | INFO     |   BAJAJFINSV: ₹1647.0
+2026-04-02 10:52:04,913 | INFO     |   INDUSINDBK: ₹785.65
+2026-04-02 10:52:05,260 | INFO     |   RELIANCE: ₹1369.2
+2026-04-02 10:52:05,619 | INFO     |   TATAMOTORS: ₹0.0
+2026-04-02 10:52:05,962 | INFO     |   MARUTI: ₹12509.0
+2026-04-02 10:52:06,292 | INFO     |   ONGC: ₹288.05
+2026-04-02 10:52:06,629 | INFO     |   NTPC: ₹364.65
+2026-04-02 10:52:06,965 | INFO     |   POWERGRID: ₹292.8
+2026-04-02 10:52:07,304 | INFO     |   COALINDIA: ₹449.4
+2026-04-02 10:52:07,625 | INFO     | 🤖 Telegram bot started
+2026-04-02 10:52:14,605 | INFO     | 
+⏳ Waiting for trade window 09:45...
+
+2026-04-02 10:52:14,605 | INFO     | 🔍 Scanning 15 stocks for short setup...
+2026-04-02 10:52:16,716 | INFO     | 💤 Next scan in 5 mins...
+
+2026-04-02 10:54:22,843 | INFO     | =======================================================
+2026-04-02 10:54:22,843 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 10:54:22,843 | INFO     |   Mode      : LIVE
+2026-04-02 10:54:22,843 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 10:54:22,843 | INFO     |   VWAP Range: within 0.4% below VWAP
+2026-04-02 10:54:22,843 | INFO     |   RSI Range : 45 – 62
+2026-04-02 10:54:22,843 | INFO     |   Max Trades: 3
+2026-04-02 10:54:22,843 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 10:54:22,843 | INFO     | =======================================================
+2026-04-02 10:54:22,933 | ERROR    | ❌ Kite login failed: Token is invalid or has expired.
+2026-04-02 10:57:46,147 | INFO     | =======================================================
+2026-04-02 10:57:46,147 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 10:57:46,147 | INFO     |   Mode      : LIVE
+2026-04-02 10:57:46,147 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 10:57:46,147 | INFO     |   VWAP Range: within 0.4% below VWAP
+2026-04-02 10:57:46,147 | INFO     |   RSI Range : 45 – 62
+2026-04-02 10:57:46,147 | INFO     |   Max Trades: 3
+2026-04-02 10:57:46,147 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 10:57:46,147 | INFO     | =======================================================
+2026-04-02 10:57:46,241 | ERROR    | ❌ Kite login failed: Token is invalid or has expired.
+2026-04-02 10:58:45,447 | INFO     | =======================================================
+2026-04-02 10:58:45,447 | INFO     |   🔴 SHORT SELL TRADER — VWAP REJECTION
+2026-04-02 10:58:45,447 | INFO     |   Mode      : LIVE
+2026-04-02 10:58:45,447 | INFO     |   Gap Down  : 1.5% – 5.0%
+2026-04-02 10:58:45,447 | INFO     |   VWAP Range: within 0.4% below VWAP
+2026-04-02 10:58:45,447 | INFO     |   RSI Range : 45 – 62
+2026-04-02 10:58:45,447 | INFO     |   Max Trades: 3
+2026-04-02 10:58:45,447 | INFO     |   Window    : 09:45 – 14:00
+2026-04-02 10:58:45,447 | INFO     | =======================================================
+2026-04-02 10:58:45,525 | INFO     | ✅ Kite login successful (LIVE mode) and access token saved
+2026-04-02 10:58:45,588 | INFO     | ✅ NSE session ready
+2026-04-02 10:58:45,588 | INFO     | 📥 Loading previous close prices...
+2026-04-02 10:58:45,660 | INFO     |   HDFCBANK: ₹742.25
+2026-04-02 10:58:46,013 | INFO     |   ICICIBANK: ₹1212.7
+2026-04-02 10:58:46,377 | INFO     |   AXISBANK: ₹1193.1
+2026-04-02 10:58:46,714 | INFO     |   KOTAKBANK: ₹356.05
+2026-04-02 10:58:47,094 | INFO     |   SBIN: ₹1017.8
+2026-04-02 10:58:47,455 | INFO     |   BAJFINANCE: ₹817.3
+2026-04-02 10:58:47,796 | INFO     |   BAJAJFINSV: ₹1647.0
+2026-04-02 10:58:48,132 | INFO     |   INDUSINDBK: ₹785.65
+2026-04-02 10:58:48,478 | INFO     |   RELIANCE: ₹1369.2
+2026-04-02 10:58:48,836 | INFO     |   TATAMOTORS: ₹0.0
+2026-04-02 10:58:49,189 | INFO     |   MARUTI: ₹12509.0
+2026-04-02 10:58:49,534 | INFO     |   ONGC: ₹288.05
+2026-04-02 10:58:49,879 | INFO     |   NTPC: ₹364.65
+2026-04-02 10:58:50,222 | INFO     |   POWERGRID: ₹292.8
+2026-04-02 10:58:50,574 | INFO     |   COALINDIA: ₹449.4
+2026-04-02 10:58:53,889 | INFO     | 
+⏳ Waiting for trade window 09:45...
+
+2026-04-02 10:58:53,889 | INFO     | 🔍 Scanning 15 stocks for short setup...
+2026-04-02 10:58:56,092 | INFO     | 💤 Next scan in 5 mins...
+
